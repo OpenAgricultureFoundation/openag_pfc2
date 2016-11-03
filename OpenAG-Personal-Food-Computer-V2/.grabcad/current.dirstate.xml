@@ -1,0 +1,3136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2016-11-01T12:04:45.1920545-04:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>Air Manifold\box_assembly\box_assembly.SLDASM</FileName>
+      <SHA1>E0E29E31F59CC6F0B2E4BF5B53963B2A757B4F8B</SHA1>
+      <FileSize>117748</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\box_assembly\box_back.SLDPRT</FileName>
+      <SHA1>4840B135E4F2F55745F27216B2FA3B9F99AD0018</SHA1>
+      <FileSize>66798</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\box_assembly\box_bevel.SLDPRT</FileName>
+      <SHA1>EE1CCA0C22A4C9E802E486313E56E6C68191EB75</SHA1>
+      <FileSize>78174</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\box_assembly\box_left.SLDPRT</FileName>
+      <SHA1>043277A40EDEC20B07D833E161E044E9B74471E7</SHA1>
+      <FileSize>59196</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\box_assembly\box_right.SLDPRT</FileName>
+      <SHA1>7B1A1F39CBA460D66B69674A93F9E0B2340A9D21</SHA1>
+      <FileSize>57632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\box_assembly\box_top.SLDPRT</FileName>
+      <SHA1>B045743F5E19DE60E8F9E42BAEE4335FD5E73AD0</SHA1>
+      <FileSize>85195</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cable_gland_lrg_assembly\cable_gland_1npt.SLDPRT</FileName>
+      <SHA1>9865C26D1243DB1BB481A04DC6DC1169E9CDBB84</SHA1>
+      <FileSize>101914</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cable_gland_lrg_assembly\cable_gland_1npt_nut1.SLDPRT</FileName>
+      <SHA1>07E00334B7A7172A0F8E80C5B8D2BC41CEE78797</SHA1>
+      <FileSize>87637</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cable_gland_lrg_assembly\cable_gland_1npt_nut2.SLDPRT</FileName>
+      <SHA1>1C5CA1C49BADE98FF5A3EAB3A0AF9D226275CB0D</SHA1>
+      <FileSize>219905</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cable_gland_lrg_assembly\cable_gland_assembly.SLDASM</FileName>
+      <SHA1>48FCE8E165989189A664D3EA75F83327BC922869</SHA1>
+      <FileSize>179044</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cable_gland_lrg_assembly\custom_cable_gland_insert.SLDPRT</FileName>
+      <SHA1>3BA6465B5F85B979CF17E213288F3AB58D26C3F2</SHA1>
+      <FileSize>70291</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cover_assembly\corner_bracket_true.SLDPRT</FileName>
+      <SHA1>F28AE0212DE763C37EFCAF239F5352B014EF26FD</SHA1>
+      <FileSize>55508</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-20T19:19:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cover_assembly\cover_assembly.SLDASM</FileName>
+      <SHA1>ECA4E039468C9D282C73CF94CF9BD1202FB993E4</SHA1>
+      <FileSize>59903</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cover_assembly\cover_back.SLDPRT</FileName>
+      <SHA1>258CA5C41ADFF238340D9BED8A9E044F451ABB93</SHA1>
+      <FileSize>39479</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cover_assembly\cover_bottom.SLDPRT</FileName>
+      <SHA1>17310D3245BA04D2DF46A79B5C5078D8F823E3B3</SHA1>
+      <FileSize>69217</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cover_assembly\cover_left.SLDPRT</FileName>
+      <SHA1>16968EE804C9F2E3920571734EC956D1C4E1CF0A</SHA1>
+      <FileSize>41805</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cover_assembly\cover_right.SLDPRT</FileName>
+      <SHA1>4284A92F2EEBBAC2F482D83CB92FCE07BD3D391A</SHA1>
+      <FileSize>40906</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cover_assembly\cover_top.SLDPRT</FileName>
+      <SHA1>51C78B1776B51329E68723939B395B4799AB47D1</SHA1>
+      <FileSize>71042</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\cover_dxfs\cover_back.DXF</FileName>
+      <SHA1>502B9DA3EC174C1A894004D3D759D376B178CC87</SHA1>
+      <FileSize>22536</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\cover_dxfs\cover_bottom.DXF</FileName>
+      <SHA1>57EB0840DCAAE1470471F9AC4CCB7DC12A2F5D7C</SHA1>
+      <FileSize>23167</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\cover_dxfs\cover_left.DXF</FileName>
+      <SHA1>573F5462956D816144230BDA2F42358CA60829B7</SHA1>
+      <FileSize>22545</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\cover_dxfs\cover_right.DXF</FileName>
+      <SHA1>DC0C662CFDF4DA3086356CA1171AEBF8F3868F12</SHA1>
+      <FileSize>22534</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\cover_dxfs\cover_right.SLDPRT</FileName>
+      <SHA1>32EDAE65E8DD13EE5AEF5E37FE1D4911329F00F3</SHA1>
+      <FileSize>39436</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\cover_dxfs\cover_top.DXF</FileName>
+      <SHA1>43A986AC725C39EC4805ED39E663A8131E35B083</SHA1>
+      <FileSize>23141</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\heater_dxfs\heater_bracket.DXF</FileName>
+      <SHA1>67ED7475C1F8E3C14C4514D148B969A592E723E1</SHA1>
+      <FileSize>25996</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\heater_dxfs\heater_bracket02.DXF</FileName>
+      <SHA1>9A85B2753E31DB6A510D49B1328F0E53E6789EDD</SHA1>
+      <FileSize>27945</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\heater_dxfs\heater_module_plate.DXF</FileName>
+      <SHA1>68E338F12034D98C67E51CD049A00B7466350838</SHA1>
+      <FileSize>24919</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\intake_exhaust_dxfs\exhaust_back_plate.DXF</FileName>
+      <SHA1>95FD7B6AC1C6B31037DBD1BA48217CB4C6539F9B</SHA1>
+      <FileSize>23481</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\intake_exhaust_dxfs\intake_back_plate.DXF</FileName>
+      <SHA1>75ED4AFB087D747C2CE8AB03D272D58E3A3C64E1</SHA1>
+      <FileSize>23660</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\intake_exhaust_dxfs\intake_exhaust_base_plate.DXF</FileName>
+      <SHA1>AE987885918EFF499F9547A9E57A9EC731E2043D</SHA1>
+      <FileSize>23665</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\routing_module_dxfs\routing_bracket01.DXF</FileName>
+      <SHA1>DDEA871E35EFE2765F896635E8CD46D88A4421AF</SHA1>
+      <FileSize>29312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files\routing_module_dxfs\routing_bracket02.DXF</FileName>
+      <SHA1>E6ADD1072901A64848A46735EEF91F31E851C80A</SHA1>
+      <FileSize>24154</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\hardware\10-24_screw01.SLDPRT</FileName>
+      <SHA1>5B528EBAE72DB323ABE350F5D459242B2F378D71</SHA1>
+      <FileSize>522645</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\hardware\10-24_screw02.SLDPRT</FileName>
+      <SHA1>C2C8B218585D85E6D58CD86EBB45199C4954F270</SHA1>
+      <FileSize>470410</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\hardware\10-24_screw03.SLDPRT</FileName>
+      <SHA1>30446922A24187B0C3DD042878DECD81121EA790</SHA1>
+      <FileSize>430869</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\hardware\10-24_screw04.SLDPRT</FileName>
+      <SHA1>AB2076EB42AE6D68ED63ECC7846FCF5F53C6800F</SHA1>
+      <FileSize>792847</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\hardware\10-24_screw05.SLDPRT</FileName>
+      <SHA1>032D765362F567F95B127BCD6219725355B16602</SHA1>
+      <FileSize>704797</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\hardware\10-24_washer.SLDPRT</FileName>
+      <SHA1>A773053110A1ABC7044BFA2DDDD7FB7CFDE86A53</SHA1>
+      <FileSize>133120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\hardware\6-32_screw.SLDPRT</FileName>
+      <SHA1>94E1BC63EA6CFB5A215BBBA92D4CF1F9C372FBB1</SHA1>
+      <FileSize>720582</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\10-24_075_spacer.SLDPRT</FileName>
+      <SHA1>7ECA89D77A8D1DBD773763072AF9BD1473A60707</SHA1>
+      <FileSize>65414</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:13.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\120mm_fan.SLDPRT</FileName>
+      <SHA1>6A128B48B904248FAAAAC97F7AC8930613F18873</SHA1>
+      <FileSize>117928</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\6-32_025_spacer.SLDPRT</FileName>
+      <SHA1>470DE8E531B3DAF69AD83C83C75F17EF3F6419E9</SHA1>
+      <FileSize>65208</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\G25_375_barb.SLDPRT</FileName>
+      <SHA1>E7086AC59D0025EC31F152F2CB85D00D79801F22</SHA1>
+      <FileSize>123462</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\heater.SLDPRT</FileName>
+      <SHA1>E3FB8E86631EFAADBD9C59EB831A04C97546C420</SHA1>
+      <FileSize>162441</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\heater_assembly.SLDASM</FileName>
+      <SHA1>6C30EAF07C37126CB62F798C46EF5EB21BD4A942</SHA1>
+      <FileSize>1408820</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:42:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\heater_bracket.SLDPRT</FileName>
+      <SHA1>63EC3A4E7F6EAAB4F858463DEBF6945DC7D2B31C</SHA1>
+      <FileSize>114363</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\heater_bracket02.SLDPRT</FileName>
+      <SHA1>DC2CDB06CA385DA42F31584B1B881066C3F70BD0</SHA1>
+      <FileSize>129281</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\heater_module_plate.SLDPRT</FileName>
+      <SHA1>794A0D6B6618F68647EB104460B72F9A5A12F0EE</SHA1>
+      <FileSize>130415</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\heater_assembly\temp_exchanger.SLDPRT</FileName>
+      <SHA1>722DF29AF121E80E40104D864C68FF7604ECFA86</SHA1>
+      <FileSize>97174</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\intake_exhaust_assemblies\ball_valve.SLDPRT</FileName>
+      <SHA1>176098A5EBE216A1DCA99D87ED210C1889E541C1</SHA1>
+      <FileSize>202375</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\intake_exhaust_assemblies\blower_fan.SLDPRT</FileName>
+      <SHA1>C5B2EC4BD27B67D317F6884D4265ACFD29EDF71A</SHA1>
+      <FileSize>174871</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\intake_exhaust_assemblies\brass_angle.SLDPRT</FileName>
+      <SHA1>8A0E469EE5EAF7A5E77932FDDD546F6662D30B12</SHA1>
+      <FileSize>115097</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\intake_exhaust_assemblies\exhaust_back_plate.SLDPRT</FileName>
+      <SHA1>C9010D8D00BD6D32A0520CB4F1B9E6226329609C</SHA1>
+      <FileSize>92366</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\intake_exhaust_assemblies\exhaust_module_assembly.SLDASM</FileName>
+      <SHA1>31117591C9DE9C88FD3A24573490535C5D833A15</SHA1>
+      <FileSize>966454</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:42:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\intake_exhaust_assemblies\intake_back_plate.SLDPRT</FileName>
+      <SHA1>F8A973BD8DE80AEC5F605A99299426DC92C5DDE8</SHA1>
+      <FileSize>100829</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\intake_exhaust_assemblies\intake_exhaust_base_plate.SLDPRT</FileName>
+      <SHA1>01C117A6890C3196DD454B673334FC20B26E8B5C</SHA1>
+      <FileSize>108327</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\intake_exhaust_assemblies\intake_module_assembly.SLDASM</FileName>
+      <SHA1>52ACCDC1138388883B5E42BDCD0B38600A290E5C</SHA1>
+      <FileSize>238734</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:42:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\intake_exhaust_assemblies\NPT_adapter.SLDPRT</FileName>
+      <SHA1>0081E4909555DAB3D821C0C5DAD1FE661F7F1DC9</SHA1>
+      <FileSize>87251</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\reservoir_assembly\reservoir_assembly.SLDASM</FileName>
+      <SHA1>3F2D413DE1B96AE9E4A1B9C52BADAFE1ACF23860</SHA1>
+      <FileSize>106849</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\reservoir_assembly\reservoir_barb.SLDPRT</FileName>
+      <SHA1>8E46055F1BF177ECE6DC6B0052890AC728300B51</SHA1>
+      <FileSize>100143</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\reservoir_assembly\reservoir_box.SLDPRT</FileName>
+      <SHA1>EA82CF31684EC01B34A929E4CAA2313D549632D3</SHA1>
+      <FileSize>91659</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\reservoir_assembly\reservoir_cap.SLDPRT</FileName>
+      <SHA1>FD19A6838372A1B705176BC68D888834A7223882</SHA1>
+      <FileSize>71770</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\routing_module_assembly\cable_gland_sml_assembly\sml_cable_gland_assembly.SLDASM</FileName>
+      <SHA1>88838C134C9328B78237916A4DCA7ABB5A969F1E</SHA1>
+      <FileSize>115528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\routing_module_assembly\cable_gland_sml_assembly\sml_cable_gland_mid.SLDPRT</FileName>
+      <SHA1>AF82B4692A19B836F74844972A30018A732A567D</SHA1>
+      <FileSize>118630</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\routing_module_assembly\cable_gland_sml_assembly\sml_cable_gland_nut.SLDPRT</FileName>
+      <SHA1>AC4BF7D76EBB08C119C1E8EC04C92842B5C783BE</SHA1>
+      <FileSize>98133</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\routing_module_assembly\cable_gland_sml_assembly\sml_cable_gland_top.SLDPRT</FileName>
+      <SHA1>0349656FD34B3CBED3164BC7391203B4E30ED845</SHA1>
+      <FileSize>141121</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\routing_module_assembly\routing_bracket01.SLDPRT</FileName>
+      <SHA1>01BA465D8E5F6E44463E4422D12007A4224DAE48</SHA1>
+      <FileSize>147786</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\routing_module_assembly\routing_bracket02.SLDPRT</FileName>
+      <SHA1>A53FE9EF8C7E3C7DE53AFE40EC56695DF1B425C6</SHA1>
+      <FileSize>79260</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\routing_module_assembly\routing_module_assembly.SLDASM</FileName>
+      <SHA1>616157D03FADE26401359910EA79022E85A350C4</SHA1>
+      <FileSize>519782</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\4-40_nut.SLDPRT</FileName>
+      <SHA1>05D81D3E269D40A6B45DDE488843B9815574406F</SHA1>
+      <FileSize>245249</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\4-40_screw.SLDPRT</FileName>
+      <SHA1>13B205F6A3973ADBAB0CFBEA89259117F861FF89</SHA1>
+      <FileSize>947200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\4-40_screw02.SLDPRT</FileName>
+      <SHA1>C8B57B9B5FDA0A9E987881FFD8DEAB29A414B7EB</SHA1>
+      <FileSize>729497</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\6-32_screw01.SLDPRT</FileName>
+      <SHA1>34F9FF02F37FFB87C95A1A25280AC1589594BCFA</SHA1>
+      <FileSize>1056256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\6-32_screw02.SLDPRT</FileName>
+      <SHA1>34B7AFC2866C715A8F9FB5A700C8D2AC2AF54FAA</SHA1>
+      <FileSize>751346</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\6-32_screw03.SLDPRT</FileName>
+      <SHA1>841F5A126CBBAE40852DD711E2DB0DA2B0C19843</SHA1>
+      <FileSize>547726</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\8-32_625_standoff.SLDPRT</FileName>
+      <SHA1>586B34F75C9B8F429511337EB556BB74C2099287</SHA1>
+      <FileSize>1021440</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\8-32_screw (1).SLDPRT</FileName>
+      <SHA1>FE50C2878999B6C5DB65A0D618F945FAC52692B0</SHA1>
+      <FileSize>1436672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\8-32_screw.SLDPRT</FileName>
+      <SHA1>FE50C2878999B6C5DB65A0D618F945FAC52692B0</SHA1>
+      <FileSize>1436672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\8-32_screw02 (1).SLDPRT</FileName>
+      <SHA1>29F8D1DAB7FC888235E3D870A7C75A854C9C373D</SHA1>
+      <FileSize>801552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\8-32_screw02.SLDPRT</FileName>
+      <SHA1>6876776574EF3CAF8059E8898CD5BB72C4A23020</SHA1>
+      <FileSize>813908</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\8-32_spacer.SLDPRT</FileName>
+      <SHA1>A7A95351C5028241676ABB1D54FFDEB90B83428E</SHA1>
+      <FileSize>101967</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\8-32_washer.SLDPRT</FileName>
+      <SHA1>B557055E4F7E44A6DF867C8794B523572166B761</SHA1>
+      <FileSize>75029</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\93505A175_ALUM MALE-FEM THRDED HEX STANDOFF.SLDPRT</FileName>
+      <SHA1>B49354D8027960681E5F31B04616F2B51DB23F88</SHA1>
+      <FileSize>1056512</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\air_manifold_assembly.SLDASM</FileName>
+      <SHA1>69268F157748D9711790C90DCDF66F88B7A33B9C</SHA1>
+      <FileSize>2658356</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:42:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\aluminum_spaer.SLDPRT</FileName>
+      <SHA1>7E1A0C905625A78107AA8F4248B10827D1B06F2E</SHA1>
+      <FileSize>52191</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\cable_gland.SLDPRT</FileName>
+      <SHA1>5A873574D0DA8218D21A4A6D7383FCD65127C194</SHA1>
+      <FileSize>241476</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\dxf_files.zip</FileName>
+      <SHA1>9F53BD53CEBC492E7CBF52B34317221B5ED829BA</SHA1>
+      <FileSize>103041</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\electronics_panel.SLDPRT</FileName>
+      <SHA1>9A7E9494D141ED245189EE8ABBD7560DC5E34E06</SHA1>
+      <FileSize>43566</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\fan_bracket.SLDPRT</FileName>
+      <SHA1>463BDCF62B3D3DFB8974EBCF59E79FB95D8B264A</SHA1>
+      <FileSize>119950</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\fan_standoff.SLDPRT</FileName>
+      <SHA1>FE34A9BC8DBF57FC2A2D9E4E6B89456E97D9D9F9</SHA1>
+      <FileSize>78867</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\l-bracket_correct.SLDPRT</FileName>
+      <SHA1>C80013C8660889DC77EA0E5F3ACE01192CCAD0FE</SHA1>
+      <FileSize>84637</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\L_backet01.SLDPRT</FileName>
+      <SHA1>82C8A9A84490BD2975F7BCFE4FB99CDA3D7EA7BF</SHA1>
+      <FileSize>88005</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\L_bracket02.SLDPRT</FileName>
+      <SHA1>ED54722BB6B279F2650F1D43D656F1610AC30A30</SHA1>
+      <FileSize>97437</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\l_bracket03.SLDPRT</FileName>
+      <SHA1>4DC9EE84CEA7D9CFA8F25C1C6E1091C27DF74544</SHA1>
+      <FileSize>101669</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\l_bracket04.SLDPRT</FileName>
+      <SHA1>A076BD81652A23FDC59DB6C0B525E0FAE5501840</SHA1>
+      <FileSize>98038</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\l_bracket05.SLDPRT</FileName>
+      <SHA1>83AFBD1A9E2538071D927872CD1273CCF9A13DC4</SHA1>
+      <FileSize>295424</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\l_bracket06.SLDPRT</FileName>
+      <SHA1>56594DEDE1F049933EBB39F6A3AD54A239CADC5D</SHA1>
+      <FileSize>244736</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\L_bracket_tall.SLDPRT</FileName>
+      <SHA1>2852174D406E6E7734E760EB204C856041155130</SHA1>
+      <FileSize>109708</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\L_bracket_wide.SLDPRT</FileName>
+      <SHA1>7CF885861FB0A3F8B4D4E2EE013A6FCD4582609B</SHA1>
+      <FileSize>78034</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\master_air_manifold.SLDASM</FileName>
+      <SHA1>14D260A31F2DA6D5C880BF94E10D654E507F8E72</SHA1>
+      <FileSize>3353498</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\panel_back.SLDPRT</FileName>
+      <SHA1>3A6A951EB0E274C09D904A51FB4193CDDF864682</SHA1>
+      <FileSize>67831</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\panel_side.SLDPRT</FileName>
+      <SHA1>76BB86EFE4555EFD6C054AE896B91225C3864A8B</SHA1>
+      <FileSize>67561</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\panel_top.SLDPRT</FileName>
+      <SHA1>2832FC441512723670DD6FB919FF8649DA6A7123</SHA1>
+      <FileSize>72819</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\Part1.SLDPRT</FileName>
+      <SHA1>1683A09AC045D1C300539086625DEAA3FD98EAA2</SHA1>
+      <FileSize>83900</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:12.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\plastic_standoff01.SLDPRT</FileName>
+      <SHA1>C59E7039ECB2E7B375ED0A95ECA94E878789C3A3</SHA1>
+      <FileSize>92365</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\power supply.SLDPRT</FileName>
+      <SHA1>4BC0FD3136EA5E2ECFDB97F5219719B1C1E00D22</SHA1>
+      <FileSize>139835</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\pump_assembly.SLDASM</FileName>
+      <SHA1>03C973016CCB77AC3E67F9B4F8391EE89EC697D7</SHA1>
+      <FileSize>682935</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\pump_mount.SLDPRT</FileName>
+      <SHA1>81670E478DF2B52B9D14EAB847D2BA9AAC7232D2</SHA1>
+      <FileSize>97020</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Air Manifold\valve_assembly.SLDASM</FileName>
+      <SHA1>CE5E9AD3E4DF32346AF7747950491278C84C7817</SHA1>
+      <FileSize>94890</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\4-40_nut.SLDPRT</FileName>
+      <SHA1>F28DBDAF599D9C56173285EF96E2C9EC88A736BF</SHA1>
+      <FileSize>266527</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\4-40_screw_mid.SLDPRT</FileName>
+      <SHA1>05C754076800FF3C19554C583E1003FCE2E87754</SHA1>
+      <FileSize>769655</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\4-40_screw_short.SLDPRT</FileName>
+      <SHA1>0C430FD99241FFBEA05C546EF2E3F79C95E49C56</SHA1>
+      <FileSize>524544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\8-32_screw.SLDPRT</FileName>
+      <SHA1>E1FD399B65A1FEB7B8260716A12A7444B8F639A3</SHA1>
+      <FileSize>606454</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\Arduino Mega R3.SLDPRT</FileName>
+      <SHA1>0C0C608F98AA05E5F2DD1BA895673E25B7DD32CD</SHA1>
+      <FileSize>141255</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\arduino-sensor-assembly.SLDASM</FileName>
+      <SHA1>F089AF96037077E089D8CABBBD92FEF8F2F7485D</SHA1>
+      <FileSize>4271034</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-25T12:33:21.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\arduino_mega2560.SLDPRT</FileName>
+      <SHA1>55050283DD27CF6122E74332078FBBF26D2BE547</SHA1>
+      <FileSize>16557667</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-25T12:33:21.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\brain_manifold.SLDPRT</FileName>
+      <SHA1>F6D4478178173354779EC4FF9F3B461DF8195842</SHA1>
+      <FileSize>173681</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\brain_manifold_assembly.SLDASM</FileName>
+      <SHA1>8D0CFA8F909E99C4C0D4A09B8D04DEAB8668544A</SHA1>
+      <FileSize>1901955</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-15T13:16:06.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\demo_board.SLDPRT</FileName>
+      <SHA1>FA4CE55774CAA58E01CA83D0A41C6885B18532D3</SHA1>
+      <FileSize>58473</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-25T12:33:21.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\pi_mount.SLDPRT</FileName>
+      <SHA1>802902AF6469095FFFDE5F5D2A9CE110392718FF</SHA1>
+      <FileSize>105227</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-15T13:16:06.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\raspberry-pi-B+.sldprt</FileName>
+      <SHA1>AB5A50252DB757C5A5AD4E2EA5DE5EA3681E01E7</SHA1>
+      <FileSize>4124291</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\signal-board.SLDPRT</FileName>
+      <SHA1>20021BAC0482ED7FB0E6B96FEF3F6A5CE1699ED5</SHA1>
+      <FileSize>407547</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brain_manifold\standoff-4-40-f-f-nylon.SLDPRT</FileName>
+      <SHA1>83EDF2C95F4AF289CD3A2869BF9A084E888927C7</SHA1>
+      <FileSize>54020</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\alum-inner-eqs.txt</FileName>
+      <SHA1>6C79B6B891FF82EA8322E1C98CE781FBDCE656A1</SHA1>
+      <FileSize>3053</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\bar-rear-top-bottom.SLDPRT</FileName>
+      <SHA1>42D1BBF405D872041DB7305C6C6790B08AC6645D</SHA1>
+      <FileSize>115377</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\bar-rlr.SLDPRT</FileName>
+      <SHA1>153A87A92460B3BA2D43D55C0CB2B46A56C666EA</SHA1>
+      <FileSize>97798</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\bar-side-top.SLDPRT</FileName>
+      <SHA1>387AA4B56654A2CDBADCBC148FE2CB5B6CF5C50D</SHA1>
+      <FileSize>89522</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\EB-Hz-M bar.SLDPRT</FileName>
+      <SHA1>C9A9983C7B69DF02F6FB2C10AE6B9D2D71DE6C00</SHA1>
+      <FileSize>84182</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\EB-shelf-depth-bar.SLDPRT</FileName>
+      <SHA1>AD3CADCB0E29B1ED7D67557F254459B083D3EC84</SHA1>
+      <FileSize>82112</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\EB-shelf-width-short.SLDPRT</FileName>
+      <SHA1>639AEC3107AE2297DB028D17983B4020FD02CB9D</SHA1>
+      <FileSize>71228</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\EB-short bar.SLDPRT</FileName>
+      <SHA1>EE18DAA4745449657D6B0BD3EC7251C453807A4D</SHA1>
+      <FileSize>85165</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\EB-V-shelf-bar.SLDPRT</FileName>
+      <SHA1>3F7B2F824B096343A1954EEE2E429760E8777083</SHA1>
+      <FileSize>67785</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\PFC2-MAC-0002-1-bar-side-top.PDF</FileName>
+      <SHA1>2E7ADACF28A0583AF6D55EBF8330F7F6C3E0DC42</SHA1>
+      <FileSize>37040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\PFC2-MAC-0003-1-bar-rlr.PDF</FileName>
+      <SHA1>6700997AC8808E1BC338CDB24B44409E0C4F05ED</SHA1>
+      <FileSize>36553</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\PFC2-MAC-0006-1-bar-rear-top-bottom.PDF</FileName>
+      <SHA1>A9072783E0CCAE42C1AC5331E03E0A35577B0A88</SHA1>
+      <FileSize>38126</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\PFC2-MAC-0010-1-EB-short bar.PDF</FileName>
+      <SHA1>6480DBF06981369A9FC90640FC9826D54F8AAEF0</SHA1>
+      <FileSize>37241</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\PFC2-MAC-0011-1-EB-Hz-M bar.PDF</FileName>
+      <SHA1>34305C527D0061996B8928E0F45B338C2EF9E02C</SHA1>
+      <FileSize>37004</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\PFC2-MAC-0012-1-EB-V-shelf-bar.PDF</FileName>
+      <SHA1>6CF0172FEC44C7D6AE21C91D8501EBACAE6B0058</SHA1>
+      <FileSize>37529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\PFC2-MAC-0013-1-EB-shelf-depth-bar.PDF</FileName>
+      <SHA1>6F98716A50E923F02B72A82A3C9BF88A41FB3503</SHA1>
+      <FileSize>36095</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\PFC2-MAC-0014-1-EB-shelf-width-short.PDF</FileName>
+      <SHA1>19DCBA7AA5935922A4B421059B01D5948D774DEC</SHA1>
+      <FileSize>34464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-02\whiteknob-openag-001.xlsx</FileName>
+      <SHA1>53EC6AFAC31F7E2A614BD0CD72E2D16B4D4D2B5F</SHA1>
+      <FileSize>18976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-MAC-0002-1-bar-side-top.PDF</FileName>
+      <SHA1>2E7ADACF28A0583AF6D55EBF8330F7F6C3E0DC42</SHA1>
+      <FileSize>37040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-MAC-0003-1-bar-rlr.PDF</FileName>
+      <SHA1>6700997AC8808E1BC338CDB24B44409E0C4F05ED</SHA1>
+      <FileSize>36553</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-MAC-0006-1-bar-rear-top-bottom.PDF</FileName>
+      <SHA1>A9072783E0CCAE42C1AC5331E03E0A35577B0A88</SHA1>
+      <FileSize>38126</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-MAC-0010-1-EB-short bar.PDF</FileName>
+      <SHA1>6480DBF06981369A9FC90640FC9826D54F8AAEF0</SHA1>
+      <FileSize>37241</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-MAC-0011-1-EB-Hz-M bar.PDF</FileName>
+      <SHA1>34305C527D0061996B8928E0F45B338C2EF9E02C</SHA1>
+      <FileSize>37004</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-MAC-0012-1-EB-V-shelf-bar.PDF</FileName>
+      <SHA1>6CF0172FEC44C7D6AE21C91D8501EBACAE6B0058</SHA1>
+      <FileSize>37529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-MAC-0013-1-EB-shelf-depth-bar.PDF</FileName>
+      <SHA1>6F98716A50E923F02B72A82A3C9BF88A41FB3503</SHA1>
+      <FileSize>36095</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-MAC-0014-1-EB-shelf-width-short.PDF</FileName>
+      <SHA1>19DCBA7AA5935922A4B421059B01D5948D774DEC</SHA1>
+      <FileSize>34464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0001-1-door.PDF</FileName>
+      <SHA1>668217FA7BEFF3AC5DD1615D66E0108C222BBF13</SHA1>
+      <FileSize>38923</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0002-1-inner-side-panel.PDF</FileName>
+      <SHA1>79F1C10584F1914C9ACA1AAB9DD4EA8C95E2C616</SHA1>
+      <FileSize>43120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0003-1-outer-top-plate.PDF</FileName>
+      <SHA1>34ECE1E087BF68562806A6254D0F1DA60802377D</SHA1>
+      <FileSize>35958</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0004-1-outer-side-panel.PDF</FileName>
+      <SHA1>23FB377242F2710873ED782BCFEFEA563BD01CD7</SHA1>
+      <FileSize>36518</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0005-1-rearsheet.PDF</FileName>
+      <SHA1>D1BD16961B1673EF39A47E705CE6D1CB863DD81F</SHA1>
+      <FileSize>36544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0010-1-EB-panel-front.PDF</FileName>
+      <SHA1>832E0C20588255A3AA9C14E4248A373C660F253F</SHA1>
+      <FileSize>31996</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0011-1-EB-panel-top.PDF</FileName>
+      <SHA1>0858E9682B387B2517782816E85A697AC12A7ED6</SHA1>
+      <FileSize>32490</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0012-1-EB-panel-side.PDF</FileName>
+      <SHA1>66035291E1EF6D1681DFCCCB1B784FD5F02A747A</SHA1>
+      <FileSize>32278</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0013-1-power-supply-bracket.PDF</FileName>
+      <SHA1>AD7E007D82F9F45A7AF3D94C631AF9888FFB6269</SHA1>
+      <FileSize>42311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0015-1-EB-shelf.PDF</FileName>
+      <SHA1>F4A17BF650166BD072CEC17F3AD50C53DFABF19A</SHA1>
+      <FileSize>35788</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\PFC2-SHT-0016-1-power-supply-bracket-small.PDF</FileName>
+      <SHA1>5CFC53C4F237DA54A0C31D4ABC95EA7FBAA05F08</SHA1>
+      <FileSize>37313</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02\whiteknob-openag-001.xlsx</FileName>
+      <SHA1>E4F0DB1C74BDD8544D50C80ED20289E65A8773B5</SHA1>
+      <FileSize>21358</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\alum-inner-eqs.txt</FileName>
+      <SHA1>6C79B6B891FF82EA8322E1C98CE781FBDCE656A1</SHA1>
+      <FileSize>3053</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\bar-rear-top-bottom.SLDPRT</FileName>
+      <SHA1>42D1BBF405D872041DB7305C6C6790B08AC6645D</SHA1>
+      <FileSize>115377</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\bar-rlr.SLDPRT</FileName>
+      <SHA1>153A87A92460B3BA2D43D55C0CB2B46A56C666EA</SHA1>
+      <FileSize>97798</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\bar-side-top.SLDPRT</FileName>
+      <SHA1>387AA4B56654A2CDBADCBC148FE2CB5B6CF5C50D</SHA1>
+      <FileSize>89522</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\EB-Hz-M bar.SLDPRT</FileName>
+      <SHA1>C9A9983C7B69DF02F6FB2C10AE6B9D2D71DE6C00</SHA1>
+      <FileSize>84182</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\EB-shelf-depth-bar.SLDPRT</FileName>
+      <SHA1>AD3CADCB0E29B1ED7D67557F254459B083D3EC84</SHA1>
+      <FileSize>82112</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\EB-shelf-width-short.SLDPRT</FileName>
+      <SHA1>639AEC3107AE2297DB028D17983B4020FD02CB9D</SHA1>
+      <FileSize>71228</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\EB-short bar.SLDPRT</FileName>
+      <SHA1>EE18DAA4745449657D6B0BD3EC7251C453807A4D</SHA1>
+      <FileSize>85165</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\EB-V-shelf-bar.SLDPRT</FileName>
+      <SHA1>3F7B2F824B096343A1954EEE2E429760E8777083</SHA1>
+      <FileSize>67785</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\PFC2-MAC-0002-1-bar-side-top.PDF</FileName>
+      <SHA1>2E7ADACF28A0583AF6D55EBF8330F7F6C3E0DC42</SHA1>
+      <FileSize>37040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\PFC2-MAC-0003-1-bar-rlr.PDF</FileName>
+      <SHA1>6700997AC8808E1BC338CDB24B44409E0C4F05ED</SHA1>
+      <FileSize>36553</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\PFC2-MAC-0006-1-bar-rear-top-bottom.PDF</FileName>
+      <SHA1>A9072783E0CCAE42C1AC5331E03E0A35577B0A88</SHA1>
+      <FileSize>38126</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\PFC2-MAC-0010-1-EB-short bar.PDF</FileName>
+      <SHA1>6480DBF06981369A9FC90640FC9826D54F8AAEF0</SHA1>
+      <FileSize>37241</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\PFC2-MAC-0011-1-EB-Hz-M bar.PDF</FileName>
+      <SHA1>34305C527D0061996B8928E0F45B338C2EF9E02C</SHA1>
+      <FileSize>37004</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\PFC2-MAC-0012-1-EB-V-shelf-bar.PDF</FileName>
+      <SHA1>6CF0172FEC44C7D6AE21C91D8501EBACAE6B0058</SHA1>
+      <FileSize>37529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\PFC2-MAC-0013-1-EB-shelf-depth-bar.PDF</FileName>
+      <SHA1>6F98716A50E923F02B72A82A3C9BF88A41FB3503</SHA1>
+      <FileSize>36095</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\PFC2-MAC-0014-1-EB-shelf-width-short.PDF</FileName>
+      <SHA1>19DCBA7AA5935922A4B421059B01D5948D774DEC</SHA1>
+      <FileSize>34464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine\whiteknob-openag-001.xlsx</FileName>
+      <SHA1>E1D398A36AAF64C07DAA87BD5FCD5CE3B39A2C83</SHA1>
+      <FileSize>19602</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-MAC-0002-1-bar-side-top.PDF</FileName>
+      <SHA1>4B88CCD3F283F996D4FD796D625735558575A1A8</SHA1>
+      <FileSize>37035</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-MAC-0003-1-bar-rlr.PDF</FileName>
+      <SHA1>7AC19A4F47C0F5A9906579A4BC96B10C56ABCAE0</SHA1>
+      <FileSize>36551</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-MAC-0006-1-bar-rear-top-bottom.PDF</FileName>
+      <SHA1>5AB72658DEE4AFE8BED91EC81420D8C0B1DA2B38</SHA1>
+      <FileSize>38128</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-MAC-0010-2-EB-short bar.PDF</FileName>
+      <SHA1>A5BBDDBA8E22D0F7AEF2416120D650DB40689795</SHA1>
+      <FileSize>37794</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-MAC-0011-1-EB-Hz-M bar.PDF</FileName>
+      <SHA1>2895D23B1E27CEE3D0C835E0E2B0A476650F7BAE</SHA1>
+      <FileSize>36995</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-MAC-0012-2-EB-V-shelf-bar.PDF</FileName>
+      <SHA1>9AA063D938DDFA0279A809369F68A6ED2315FCF7</SHA1>
+      <FileSize>38058</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-MAC-0013-1-EB-shelf-depth-bar.PDF</FileName>
+      <SHA1>D68F0B811D3834138D65AC649707137AC8F8767B</SHA1>
+      <FileSize>36095</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-MAC-0014-1-EB-shelf-width-short.PDF</FileName>
+      <SHA1>B2751B66209528121957DECA09DA66E025B71466</SHA1>
+      <FileSize>34464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-SHT-0013-1-power-supply-bracket.PDF</FileName>
+      <SHA1>86A55AA463BCA2517D9B4209D0405EB026A72DE6</SHA1>
+      <FileSize>42311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\PFC2-SHT-0016-1-power-supply-bracket-small.PDF</FileName>
+      <SHA1>F986765466D01F6D5682D05AF551B1CA97351945</SHA1>
+      <FileSize>37311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13\whiteknob-openag-001.xlsx</FileName>
+      <SHA1>5571B24874922CD590A33BBE07A77B20010DA598</SHA1>
+      <FileSize>20558</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-MAC-0002-1-bar-side-top.PDF</FileName>
+      <SHA1>2E7ADACF28A0583AF6D55EBF8330F7F6C3E0DC42</SHA1>
+      <FileSize>37040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-MAC-0003-1-bar-rlr.PDF</FileName>
+      <SHA1>6700997AC8808E1BC338CDB24B44409E0C4F05ED</SHA1>
+      <FileSize>36553</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-MAC-0006-1-bar-rear-top-bottom.PDF</FileName>
+      <SHA1>A9072783E0CCAE42C1AC5331E03E0A35577B0A88</SHA1>
+      <FileSize>38126</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-MAC-0010-1-EB-short bar.PDF</FileName>
+      <SHA1>6480DBF06981369A9FC90640FC9826D54F8AAEF0</SHA1>
+      <FileSize>37241</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-MAC-0011-1-EB-Hz-M bar.PDF</FileName>
+      <SHA1>34305C527D0061996B8928E0F45B338C2EF9E02C</SHA1>
+      <FileSize>37004</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-MAC-0012-1-EB-V-shelf-bar.PDF</FileName>
+      <SHA1>6CF0172FEC44C7D6AE21C91D8501EBACAE6B0058</SHA1>
+      <FileSize>37529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-MAC-0013-1-EB-shelf-depth-bar.PDF</FileName>
+      <SHA1>6F98716A50E923F02B72A82A3C9BF88A41FB3503</SHA1>
+      <FileSize>36095</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-MAC-0014-1-EB-shelf-width-short.PDF</FileName>
+      <SHA1>19DCBA7AA5935922A4B421059B01D5948D774DEC</SHA1>
+      <FileSize>34464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0001-1-door.PDF</FileName>
+      <SHA1>668217FA7BEFF3AC5DD1615D66E0108C222BBF13</SHA1>
+      <FileSize>38923</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0002-1-inner-side-panel.PDF</FileName>
+      <SHA1>79F1C10584F1914C9ACA1AAB9DD4EA8C95E2C616</SHA1>
+      <FileSize>43120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0003-1-outer-top-plate.PDF</FileName>
+      <SHA1>34ECE1E087BF68562806A6254D0F1DA60802377D</SHA1>
+      <FileSize>35958</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0004-1-outer-side-panel.PDF</FileName>
+      <SHA1>23FB377242F2710873ED782BCFEFEA563BD01CD7</SHA1>
+      <FileSize>36518</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0005-1-rearsheet.PDF</FileName>
+      <SHA1>D1BD16961B1673EF39A47E705CE6D1CB863DD81F</SHA1>
+      <FileSize>36544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0010-1-EB-panel-front.PDF</FileName>
+      <SHA1>832E0C20588255A3AA9C14E4248A373C660F253F</SHA1>
+      <FileSize>31996</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0011-1-EB-panel-top.PDF</FileName>
+      <SHA1>0858E9682B387B2517782816E85A697AC12A7ED6</SHA1>
+      <FileSize>32490</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0012-1-EB-panel-side.PDF</FileName>
+      <SHA1>66035291E1EF6D1681DFCCCB1B784FD5F02A747A</SHA1>
+      <FileSize>32278</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0013-1-power-supply-bracket.PDF</FileName>
+      <SHA1>AD7E007D82F9F45A7AF3D94C631AF9888FFB6269</SHA1>
+      <FileSize>42311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0015-1-EB-shelf.PDF</FileName>
+      <SHA1>F4A17BF650166BD072CEC17F3AD50C53DFABF19A</SHA1>
+      <FileSize>35788</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\PFC2-SHT-0016-1-power-supply-bracket-small.PDF</FileName>
+      <SHA1>5CFC53C4F237DA54A0C31D4ABC95EA7FBAA05F08</SHA1>
+      <FileSize>37313</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott-2016-09-01\whiteknob-openag-001.xlsx</FileName>
+      <SHA1>65EF021A8D30A0C63505B4FCBFB21B195D5CF173</SHA1>
+      <FileSize>20684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\1-bar-frame-1 .PDF</FileName>
+      <SHA1>CA3CFD28A34F7C6FD8F6FADC49B2D3B74AF14929</SHA1>
+      <FileSize>80989</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\1-Main-Assembly .PDF</FileName>
+      <SHA1>D0DE29CAB2681D97C763AB9B1203BB70FD641CC0</SHA1>
+      <FileSize>73254</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\bar-rear-top-bottom.SLDPRT</FileName>
+      <SHA1>42D1BBF405D872041DB7305C6C6790B08AC6645D</SHA1>
+      <FileSize>115377</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\bar-rlr.SLDPRT</FileName>
+      <SHA1>153A87A92460B3BA2D43D55C0CB2B46A56C666EA</SHA1>
+      <FileSize>97798</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\bar-side-top.SLDPRT</FileName>
+      <SHA1>387AA4B56654A2CDBADCBC148FE2CB5B6CF5C50D</SHA1>
+      <FileSize>89522</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Condor-Quote-OpenAg-Rich-Abbott-2016-09-01.zip</FileName>
+      <SHA1>815439F3F0C046DEF420AA223955F3A2A2B5576D</SHA1>
+      <FileSize>926762</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Critical-Laser-Quote-2016-09-02.zip</FileName>
+      <SHA1>7B8ED17F2F204A5416AF78BE38A0B255711D4775</SHA1>
+      <FileSize>607695</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\EB-Hz-M bar.SLDPRT</FileName>
+      <SHA1>C9A9983C7B69DF02F6FB2C10AE6B9D2D71DE6C00</SHA1>
+      <FileSize>84182</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\EB-shelf-depth-bar.SLDPRT</FileName>
+      <SHA1>AD3CADCB0E29B1ED7D67557F254459B083D3EC84</SHA1>
+      <FileSize>82112</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\EB-shelf-width-short.SLDPRT</FileName>
+      <SHA1>639AEC3107AE2297DB028D17983B4020FD02CB9D</SHA1>
+      <FileSize>71228</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\EB-short bar.SLDPRT</FileName>
+      <SHA1>EE18DAA4745449657D6B0BD3EC7251C453807A4D</SHA1>
+      <FileSize>85165</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\EB-V-shelf-bar.SLDPRT</FileName>
+      <SHA1>3F7B2F824B096343A1954EEE2E429760E8777083</SHA1>
+      <FileSize>67785</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Modern Machine.zip</FileName>
+      <SHA1>07D05969313849D1BF3310EA7D8E43043A523C49</SHA1>
+      <FileSize>926633</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0002-1-bar-side-top.PDF</FileName>
+      <SHA1>4B88CCD3F283F996D4FD796D625735558575A1A8</SHA1>
+      <FileSize>37035</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0003-1-bar-rlr.PDF</FileName>
+      <SHA1>7AC19A4F47C0F5A9906579A4BC96B10C56ABCAE0</SHA1>
+      <FileSize>36551</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0006-1-bar-rear-top-bottom.PDF</FileName>
+      <SHA1>5AB72658DEE4AFE8BED91EC81420D8C0B1DA2B38</SHA1>
+      <FileSize>38128</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0010-1-EB-short bar.PDF</FileName>
+      <SHA1>6480DBF06981369A9FC90640FC9826D54F8AAEF0</SHA1>
+      <FileSize>37241</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0010-2-EB-short bar.PDF</FileName>
+      <SHA1>A5BBDDBA8E22D0F7AEF2416120D650DB40689795</SHA1>
+      <FileSize>37794</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0011-1-EB-Hz-M bar.PDF</FileName>
+      <SHA1>2895D23B1E27CEE3D0C835E0E2B0A476650F7BAE</SHA1>
+      <FileSize>36995</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0012-1-EB-V-shelf-bar.PDF</FileName>
+      <SHA1>6CF0172FEC44C7D6AE21C91D8501EBACAE6B0058</SHA1>
+      <FileSize>37529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0012-2-EB-V-shelf-bar.PDF</FileName>
+      <SHA1>9AA063D938DDFA0279A809369F68A6ED2315FCF7</SHA1>
+      <FileSize>38058</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0013-1-EB-shelf-depth-bar.PDF</FileName>
+      <SHA1>D68F0B811D3834138D65AC649707137AC8F8767B</SHA1>
+      <FileSize>36095</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-MAC-0014-1-EB-shelf-width-short.PDF</FileName>
+      <SHA1>B2751B66209528121957DECA09DA66E025B71466</SHA1>
+      <FileSize>34464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0001-1-door.PDF</FileName>
+      <SHA1>BE5383FD56E3E6FA3E26FA73E60F3394E1A3B3A7</SHA1>
+      <FileSize>38924</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0002-1-inner-side-panel.PDF</FileName>
+      <SHA1>79F1C10584F1914C9ACA1AAB9DD4EA8C95E2C616</SHA1>
+      <FileSize>43120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0002-2-inner-side-panel.PDF</FileName>
+      <SHA1>C464D7D320D78CC816BB4E3010E210E27658DA2A</SHA1>
+      <FileSize>43815</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0003-1-outer-top-plate.PDF</FileName>
+      <SHA1>614C31E4A372F494E9B100C9DBDDF538EB25623F</SHA1>
+      <FileSize>35957</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0004-1-outer-side-panel.PDF</FileName>
+      <SHA1>B42FE5849294076BAD310642D3B379E5F9FBE608</SHA1>
+      <FileSize>36519</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0005-1-rearsheet.PDF</FileName>
+      <SHA1>CAE800C94E6E9B4E8A53142AF2B909DCC85B76C1</SHA1>
+      <FileSize>36544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0010-1-EB-panel-front.PDF</FileName>
+      <SHA1>07C0C74BAE6479BC5DB543F71AF8C342CB5FBE22</SHA1>
+      <FileSize>31999</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0011-1-EB-panel-top.PDF</FileName>
+      <SHA1>4F3CCBBB88DA61B6287FF531BC2522C017D6211D</SHA1>
+      <FileSize>32491</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0012-1-EB-panel-side.PDF</FileName>
+      <SHA1>F8CD4054A7101D106B3278497F92C89441946222</SHA1>
+      <FileSize>32280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0013-1-power-supply-bracket.PDF</FileName>
+      <SHA1>86A55AA463BCA2517D9B4209D0405EB026A72DE6</SHA1>
+      <FileSize>42311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0015-1-EB-shelf.PDF</FileName>
+      <SHA1>F4A17BF650166BD072CEC17F3AD50C53DFABF19A</SHA1>
+      <FileSize>35788</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0015-2-EB-shelf.PDF</FileName>
+      <SHA1>20EC5FE87FDF9715CB5FD3041A8614617A17910E</SHA1>
+      <FileSize>36885</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\PFC2-SHT-0016-1-power-supply-bracket-small.PDF</FileName>
+      <SHA1>F986765466D01F6D5682D05AF551B1CA97351945</SHA1>
+      <FileSize>37311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\QuickTurn-Quote-OpenAg-WhiteKnob-Abbott-2016-09-13.zip</FileName>
+      <SHA1>2A44671BF3D1D0BDD5481EE2EC0BBBB287BEC7E6</SHA1>
+      <FileSize>333218</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\PDF\Specialized-Quote-OpenAg-Rich-Abbott.zip</FileName>
+      <SHA1>19E4DEFCBC9CDB12547C7BF37FAE303C66CF252E</SHA1>
+      <FileSize>607329</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\1-bar-frame.SLDDRW</FileName>
+      <SHA1>0D31E40DA971F4FAD9A807D85F182F569FA52608</SHA1>
+      <FileSize>336090</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-20T19:19:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\aluminum-bar-breakdown.ods</FileName>
+      <SHA1>453AAD0CAEB623F1AFDBF256BE7386557DFE51DD</SHA1>
+      <FileSize>20746</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:41.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\b - landscape-openag.slddrt</FileName>
+      <SHA1>FCA168475627AE54DCB6AB3EBDB3B57D7F71E245</SHA1>
+      <FileSize>58425</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\bar-rear-top-bottom.SLDDRW</FileName>
+      <SHA1>FFCB7E32E3F0C5DCF4280D80DB08E245B0A845B4</SHA1>
+      <FileSize>102746</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:41.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\bar-rlr.SLDDRW</FileName>
+      <SHA1>E6BCAE8D55FFF7AC383604E6BBEAE73B507C3DB2</SHA1>
+      <FileSize>95263</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-20T19:19:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\bar-side-top.SLDDRW</FileName>
+      <SHA1>E9B8D6E233117894909BE8793F2E5A50776671A0</SHA1>
+      <FileSize>92702</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:41.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\baseplate.SLDDRW</FileName>
+      <SHA1>F1C039EE4F9EBE92CE1070178FE178768F1857AD</SHA1>
+      <FileSize>110181</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\bom-oag.sldbomtbt</FileName>
+      <SHA1>1EE7544A3DE1383A7963BA10073D3185992D2B5F</SHA1>
+      <FileSize>6691</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:41.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\bomtemp-material.xls</FileName>
+      <SHA1>4491246A6125171C944805054AE2E001EC72CEC7</SHA1>
+      <FileSize>29696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:41.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\door.SLDDRW</FileName>
+      <SHA1>EC0092CB4598D4BC0BC9232D495FF25DF5A38A58</SHA1>
+      <FileSize>88744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\EB-Hz-M bar.SLDDRW</FileName>
+      <SHA1>7A41909EBCFD9754BEB42C6CE8858224CC2CDC5C</SHA1>
+      <FileSize>95191</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\EB-panel-front.SLDDRW</FileName>
+      <SHA1>B62A2BB48075746066070496DCCCA402D6BF71D2</SHA1>
+      <FileSize>73089</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:40.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\EB-panel-side.SLDDRW</FileName>
+      <SHA1>E1AF818AD3A241F7578649A7AE1B8F21E14B8967</SHA1>
+      <FileSize>74633</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:40.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\EB-panel-top.SLDDRW</FileName>
+      <SHA1>A34B44E55B781AB50C3853605F99430A6AF02EBA</SHA1>
+      <FileSize>74921</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:40.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\EB-shelf-depth-bar.SLDDRW</FileName>
+      <SHA1>36ED7D8D8116EEB2EC661483DA46E9E9D6E916C8</SHA1>
+      <FileSize>89177</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\EB-shelf-width-short.SLDDRW</FileName>
+      <SHA1>9E9E97F1A9C92753AED198FC3562B36B8E801B61</SHA1>
+      <FileSize>79745</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:40.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\EB-shelf.SLDDRW</FileName>
+      <SHA1>C45FCAF107D5950E8E23F0702F6EFEE861DFC7D4</SHA1>
+      <FileSize>104159</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\EB-short bar.SLDDRW</FileName>
+      <SHA1>6386BD2871C694AC19EF9EB9AC67ECCBE985F974</SHA1>
+      <FileSize>108926</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\EB-V-shelf-bar.SLDDRW</FileName>
+      <SHA1>2A5637677AF58FC9509974B1E065A4D43825AA59</SHA1>
+      <FileSize>108845</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\inner-side-panel.SLDDRW</FileName>
+      <SHA1>C0FF2568B7035C6142D69169EFB5C44D67588E8D</SHA1>
+      <FileSize>149459</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\outer-side-panel.SLDDRW</FileName>
+      <SHA1>AD80996ECB4E7499319100D55B97D143CC2F4E65</SHA1>
+      <FileSize>97189</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:41.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\outer-top-plate.SLDDRW</FileName>
+      <SHA1>53A74821CFC08A0FD6F6C460997BC32FACBD1818</SHA1>
+      <FileSize>93567</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:41.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\power-supply-bracket-small.SLDDRW</FileName>
+      <SHA1>F607C11E148C39AE8C06957A1B29E6E6D0217E69</SHA1>
+      <FileSize>97683</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\power-supply-bracket.SLDDRW</FileName>
+      <SHA1>BB147AD42021C36BC4A8204E430DF3BC8F69C44B</SHA1>
+      <FileSize>134046</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\rearsheet.SLDDRW</FileName>
+      <SHA1>5903DA7DA947563E8C9F3101F4B1865BD7AA6CB7</SHA1>
+      <FileSize>93629</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:03:41.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\box\box_back.DXF</FileName>
+      <SHA1>19EF192543A9A1A91C0A0B6AF27B8B481B90E1EB</SHA1>
+      <FileSize>24393</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:36.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\box\box_bevel.DXF</FileName>
+      <SHA1>90358C6AF061AD5F7ECA258372B3CDC9958A0B4B</SHA1>
+      <FileSize>23344</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\box\box_left.DXF</FileName>
+      <SHA1>52CB580D7C303150A9180BC681C5EB6AB6AD75AE</SHA1>
+      <FileSize>23446</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\box\box_right.DXF</FileName>
+      <SHA1>C0629AF60599ADED2196A09002F3086507AB58CB</SHA1>
+      <FileSize>23457</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\box\box_top.DXF</FileName>
+      <SHA1>37713FAA64D5F8CE4E093C067D6B758B0E7B323B</SHA1>
+      <FileSize>23705</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\baseplate.DXF</FileName>
+      <SHA1>E144810D57359A9CE7E6AE45CE7863CC79EA120A</SHA1>
+      <FileSize>29015</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\brain_manifold.DXF</FileName>
+      <SHA1>FB0A7991A7F479E86A9162E526035A04FF504B5E</SHA1>
+      <FileSize>31251</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-15T13:16:06.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\circ_fan_mount.DXF</FileName>
+      <SHA1>A70336896361369709FD6000C116EEEF83F457A1</SHA1>
+      <FileSize>23820</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\custom_cable_gland_insert.DXF</FileName>
+      <SHA1>5B6D80A75B27078EA8ECA92E091532EAC6B29A05</SHA1>
+      <FileSize>22777</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\demo_side.DXF</FileName>
+      <SHA1>896C4DBEFF140FAA3BE39F261AF936C62486FCC4</SHA1>
+      <FileSize>22343</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\door.DXF</FileName>
+      <SHA1>D6E854E8DC07AD7539F626424C9661225C7066F9</SHA1>
+      <FileSize>22282</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\EB-panel-front.DXF</FileName>
+      <SHA1>0A6088901CC9C1825E21E8EE162D2D02367C108B</SHA1>
+      <FileSize>22265</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\EB-panel-rear.DXF</FileName>
+      <SHA1>C30723FCBC591775F41698777D91A81FB5E79D00</SHA1>
+      <FileSize>30278</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\EB-panel-side.DXF</FileName>
+      <SHA1>6536A1347D16BD00CDBF1A0A98E34BA3E0B86E1F</SHA1>
+      <FileSize>22347</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\EB-panel-top.DXF</FileName>
+      <SHA1>22F31B85A412DA58BCF69678CC60136300470EF8</SHA1>
+      <FileSize>22299</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\EB-shelf.DXF</FileName>
+      <SHA1>6407B35AB9B2D55871A3FB318071E95039286F6F</SHA1>
+      <FileSize>24591</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-20T19:19:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\exhaust_back_plate.DXF</FileName>
+      <SHA1>493CBECBA78E01A9DB5F1141688807E388A0DD58</SHA1>
+      <FileSize>23940</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\foam_tray.DXF</FileName>
+      <SHA1>579A79E27DE612E53DDFE11FE90D63CBE4D25FCB</SHA1>
+      <FileSize>24520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-18T18:09:19.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\heater_bracket02.DXF</FileName>
+      <SHA1>A4EDB5954F35271DBCE27F97BDE274307505BDFA</SHA1>
+      <FileSize>27881</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\heater_module_plate.DXF</FileName>
+      <SHA1>CC9E4D3D7A29547458CD31FF70835BF0DB4DD441</SHA1>
+      <FileSize>24922</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\inner-side-panel.DXF</FileName>
+      <SHA1>859ECCA0CBD61E85F04701E1DA070D951C9025BA</SHA1>
+      <FileSize>37226</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\inner-side-panel_notched.DXF</FileName>
+      <SHA1>18F45BF229C945EF6E74854504D5C7289DADD5B8</SHA1>
+      <FileSize>37227</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\intake_back_plate.DXF</FileName>
+      <SHA1>68AE923B0D5500A94D1C7D9FE500031DF4B5933D</SHA1>
+      <FileSize>23647</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\intake_exhaust_base_plate.DXF</FileName>
+      <SHA1>F74D918A322CE132B5806B8F65554345951232AD</SHA1>
+      <FileSize>24114</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\light_panel.DXF</FileName>
+      <SHA1>0A84461CE7C708318FD18E0EBA4681E6FFFDB422</SHA1>
+      <FileSize>78384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\outer-side-panel.DXF</FileName>
+      <SHA1>F79DD5E6E296BBFA9F0C556BB7D6F1CF243D2873</SHA1>
+      <FileSize>26700</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\outer-side-panel_test.DXF</FileName>
+      <SHA1>67246D7542F9C0AACC629EDC67EA9865C07745D2</SHA1>
+      <FileSize>26695</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\outer-top-plate.DXF</FileName>
+      <SHA1>95D780B4BEE948FFC0B27C31AF855F79E6872912</SHA1>
+      <FileSize>26234</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\pi_mount.DXF</FileName>
+      <SHA1>DF322B3A9F1736F49C9063671281BD799DCBF24E</SHA1>
+      <FileSize>28721</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-15T13:16:06.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\pump_mount02.DXF</FileName>
+      <SHA1>C76C1C30CB43068D81646AA1D295AF7044665E20</SHA1>
+      <FileSize>27207</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-15T13:16:06.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\rearsheet.DXF</FileName>
+      <SHA1>BD38A4D8485D4A6EEDA5EFACCB0B09727AE281EC</SHA1>
+      <FileSize>27348</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\routing_bracket01.DXF</FileName>
+      <SHA1>4757F95297555730A5E1D907450C4112E9DF72C2</SHA1>
+      <FileSize>29320</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\routing_bracket02.DXF</FileName>
+      <SHA1>83365A495DD3F00707E4D346C5157D655FD74FDA</SHA1>
+      <FileSize>25786</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\sensor_mount.DXF</FileName>
+      <SHA1>2EE470C510FA0FC8D6BCA15B4BB73F0D7A6CF8BC</SHA1>
+      <FileSize>25289</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\splash_guard.DXF</FileName>
+      <SHA1>DDECFDD592B07332CB60DE9DF3F6000953F0FBBD</SHA1>
+      <FileSize>23394</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\water_manifold_horizontal.DXF</FileName>
+      <SHA1>B5455BA11074E62AD661CD97BFB9519A5C76ECF3</SHA1>
+      <FileSize>31154</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-12T12:15:54.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\water_manifold_plate.DXF</FileName>
+      <SHA1>37671DC73419E3DFAAED462C2BFF0E134B2FB86B</SHA1>
+      <FileSize>23878</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T18:29:19.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_files\water_manifold_vertical.DXF</FileName>
+      <SHA1>B34CC83D2FCB9A9EA1D8E0041A779EC60A179F68</SHA1>
+      <FileSize>26743</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-12T12:17:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>light_panel_assembly\ge_light_blue.SLDPRT</FileName>
+      <SHA1>A32F6B31A1348D159685220482C94009021BBC7E</SHA1>
+      <FileSize>108348</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>light_panel_assembly\ge_light_red.SLDPRT</FileName>
+      <SHA1>0A966BE366EC9975C34C80FAE0E759E19C8F7898</SHA1>
+      <FileSize>127372</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>light_panel_assembly\ge_light_white.SLDPRT</FileName>
+      <SHA1>19242A9D760D8DF7EF0AC90D8096C43F9CD097D0</SHA1>
+      <FileSize>169311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>light_panel_assembly\light_panel.SLDPRT</FileName>
+      <SHA1>896BF431CC431132A6E533D77A6D9871471AE303</SHA1>
+      <FileSize>407198</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>light_panel_assembly\light_panel_assembly.SLDASM</FileName>
+      <SHA1>68CCB2C325446F0C1076A1E0AD1FB18C070A79B2</SHA1>
+      <FileSize>926593</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>png_photos\air_manifold.PNG</FileName>
+      <SHA1>B30EC0348BDFDACDEB60762FC4403E2154778642</SHA1>
+      <FileSize>598680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>png_photos\chiller.PNG</FileName>
+      <SHA1>A81BC073A61EB42BBCF8170582DD1CC245FFC8A2</SHA1>
+      <FileSize>392343</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>png_photos\pfc_ortho.PNG</FileName>
+      <SHA1>614C79709B3FA95118FC1406BA6F7862A0FD304E</SHA1>
+      <FileSize>485131</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>png_photos\pfc_side.PNG</FileName>
+      <SHA1>14604DE49F85BA73ADCF8F4F5657FA843798BD4D</SHA1>
+      <FileSize>274426</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>png_photos\pfc_side_tank.PNG</FileName>
+      <SHA1>570CD2BFFB0291E05FB3CA1A077C9C85393AC7B1</SHA1>
+      <FileSize>312386</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>png_photos\pump_assembly.PNG</FileName>
+      <SHA1>527C2C7E8F0D40CC5D66DD170B2FAB3D019C6BEF</SHA1>
+      <FileSize>285964</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\10-32_screw.SLDPRT</FileName>
+      <SHA1>064498310E3C44E81B634E81BBD6A7283C8E5142</SHA1>
+      <FileSize>583771</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-29T13:59:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\4-40_screw.SLDPRT</FileName>
+      <SHA1>38D3FA2BD59151EC4256C3C8CA741F13B0688F12</SHA1>
+      <FileSize>584278</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\4-40_screw_025.SLDPRT</FileName>
+      <SHA1>60349DC8DF4DC3DA20C24C3A277B2191BEA8F2A1</SHA1>
+      <FileSize>528720</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\4-40_standoff_tall.SLDPRT</FileName>
+      <SHA1>2F5E300EE2ED11FDB73A4FD8EA32F5B1DEC93594</SHA1>
+      <FileSize>48128</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\8-32_standoff_f-f.SLDPRT</FileName>
+      <SHA1>95885CF6C4EBC6842EE7696DD8921DFA2041ADA6</SHA1>
+      <FileSize>53333</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\8-32x2p5_standoff_f-f.SLDPRT</FileName>
+      <SHA1>F874C9328A8B3695561EA6BEA163F3A0E57897C2</SHA1>
+      <FileSize>52288</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\91115A519_18-8 SS FEM THRDED HEX STANDOFF.SLDPRT</FileName>
+      <SHA1>724EFC2175DBDB83C476688D73D3CF6CE2B13281</SHA1>
+      <FileSize>1179136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\91115A861_18-8 SS FEM THRDED HEX STANDOFF.SLDPRT</FileName>
+      <SHA1>01E4A7806AD8D866294B8FE5E3182A525B3B063C</SHA1>
+      <FileSize>1002496</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\pump_assembly.SLDASM</FileName>
+      <SHA1>9EA4899452759A773FC65474F49A2A84F926AD72</SHA1>
+      <FileSize>256167</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:42:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\pump_mount02.SLDPRT</FileName>
+      <SHA1>DBCCE5E1627008F28D8D3391CC8AF268491C91FD</SHA1>
+      <FileSize>158546</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>pump_manifold\water_pump.SLDPRT</FileName>
+      <SHA1>B1F642DDFCDE5A92B074D9D460F90287FB33FD58</SHA1>
+      <FileSize>135805</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>sensor_assembly\am2315.SLDPRT</FileName>
+      <SHA1>CB40E06CFEBD05D20E2AAA230075F0D7B3F32862</SHA1>
+      <FileSize>182631</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:17.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>sensor_assembly\co2-mh-z16.SLDPRT</FileName>
+      <SHA1>92EC0CE3233216F6A58E38120FFD0DE423674171</SHA1>
+      <FileSize>227612</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:17.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>sensor_assembly\ELP_cam.SLDPRT</FileName>
+      <SHA1>5D22CA38F8D90EFEA53F34CBEE7AF9A56E8B1002</SHA1>
+      <FileSize>193408</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>sensor_assembly\ELP_cam_assembly.SLDASM</FileName>
+      <SHA1>C08F7430ACD12564079BB0CC368795B0650726AD</SHA1>
+      <FileSize>118255</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:42:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>sensor_assembly\ELP_cam_assembly_lightpanel.SLDASM</FileName>
+      <SHA1>BA1BF29834CB808B98BABA90E025362E094498D5</SHA1>
+      <FileSize>767554</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>sensor_assembly\sensor_assembly.SLDASM</FileName>
+      <SHA1>8B97D838E5C547E004C497B157A2704657F7BB9A</SHA1>
+      <FileSize>237528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:42:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>sensor_assembly\sensor_mount.SLDPRT</FileName>
+      <SHA1>9D563989989F9C722A09689101D17AF60194F563</SHA1>
+      <FileSize>106034</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:22:57.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>sensor_assembly\sensor_zip_tie.SLDPRT</FileName>
+      <SHA1>44F6B45C1BD9B3ED4383469A7CA51C599CB368D4</SHA1>
+      <FileSize>104473</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>water_manifold\humidifier.SLDPRT</FileName>
+      <SHA1>FA331AFE7ED7A9E6A2495D891C776B0BD92003BB</SHA1>
+      <FileSize>162960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-24T19:41:55.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>water_manifold\submersible_pump.SLDPRT</FileName>
+      <SHA1>51C696E2D2AE74CA68A67AA7212A1117AB16BD63</SHA1>
+      <FileSize>215959</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-24T20:58:38.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>water_manifold\test.SLDPRT</FileName>
+      <SHA1>5440651C3B4A43162C14EFE66B28DE93D49F64B0</SHA1>
+      <FileSize>48409</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>water_manifold\test_assembly.SLDASM</FileName>
+      <SHA1>45F0069C7DA821E47A658F0B25265A5B7804B675</SHA1>
+      <FileSize>43894</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>water_manifold\water_manifold_assembly.SLDASM</FileName>
+      <SHA1>0D7A496B540DA78526894A1B61FDBA2C5DC7F9B1</SHA1>
+      <FileSize>297972</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-18T18:09:19.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>water_manifold\water_manifold_horizontal.SLDPRT</FileName>
+      <SHA1>F98F064AFD7B3EE33A97424ED5E4D3C0F2A77217</SHA1>
+      <FileSize>221127</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-12T12:15:33.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>water_manifold\water_manifold_plate.SLDPRT</FileName>
+      <SHA1>29C18698952084C9421523677AED943BD7525F65</SHA1>
+      <FileSize>87097</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T18:29:19.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>water_manifold\water_manifold_vertical.SLDPRT</FileName>
+      <SHA1>71981D07DA6E1D5690052C536A6525B62CA7EA5D</SHA1>
+      <FileSize>133032</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:42:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>web cam\Assem1cam.SLDASM</FileName>
+      <SHA1>59AB3FEA150814369AB6F628CD149DF14F44B9CA</SHA1>
+      <FileSize>345562</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>web cam\Part1.SLDPRT</FileName>
+      <SHA1>FC38B18F3729CDF4D69E5B226B2F0040AF4A62BB</SHA1>
+      <FileSize>1136399</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>web cam\Part2.sldprt</FileName>
+      <SHA1>256222743B845218970E9BE954D81A34E345FC8E</SHA1>
+      <FileSize>24513</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1-bar-frame.SLDASM</FileName>
+      <SHA1>3F88DBA978D14D713E2D255E0BB6A0AB94AFEC8A</SHA1>
+      <FileSize>376392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T20:16:59.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>12-6-6-Box.sldprt</FileName>
+      <SHA1>C754942C94D8CBE0745C6975B231E97C5434728F</SHA1>
+      <FileSize>47616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:21.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>2-56_screw.SLDPRT</FileName>
+      <SHA1>21E7D83DD027405555E29A6C687F985B9E58777D</SHA1>
+      <FileSize>545208</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>2-56_standoff.SLDPRT</FileName>
+      <SHA1>AABDB075EBA15707992F8D74D84A977C7C3F7571</SHA1>
+      <FileSize>591588</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>24v-power-supply.SLDPRT</FileName>
+      <SHA1>B84525ECCE43CD68D122723D6C9D9EA8B1557596</SHA1>
+      <FileSize>294822</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>24v-ps-RSP-320-24.SLDPRT</FileName>
+      <SHA1>DDEE6F137581A6BA3F23D019D705C5899977F8B3</SHA1>
+      <FileSize>293227</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>5-40_screw.SLDPRT</FileName>
+      <SHA1>990A9DA828AF5A26D5F74483B05249417B14C5DE</SHA1>
+      <FileSize>622616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>8-075_standoff-f-f.SLDPRT</FileName>
+      <SHA1>A4383DEF789EBD5D8D8707B3F03D4EEBE882B953</SHA1>
+      <FileSize>898447</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>8-32_025_standoff.SLDPRT</FileName>
+      <SHA1>823431511B9C5758F8A430ED96416B021956C13A</SHA1>
+      <FileSize>482629</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:11.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>8-32_025_standoff_f-f.SLDPRT</FileName>
+      <SHA1>444A1705E55412D4F8534D3CC3556D0BA7E8B9EF</SHA1>
+      <FileSize>64644</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>8-32_025_standoff_ss.SLDPRT</FileName>
+      <SHA1>05007E54F3636F509A5FA7A5781D36652FD23C34</SHA1>
+      <FileSize>624640</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:11.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>8-32_313_screw.SLDPRT</FileName>
+      <SHA1>21CBBAA2F989F4DE05FA2F06DB874DA812AAE821</SHA1>
+      <FileSize>559683</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>92185A134_TYPE 316 SS SOCKET HEAD CAP SCREW.SLDPRT</FileName>
+      <SHA1>6E280CE24C8F34EA18A9B9DDCD6BB86F31E6E96C</SHA1>
+      <FileSize>963584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>alum-inner-eqs.txt</FileName>
+      <SHA1>7EBA9441B14EE297AB6CCA1FCFD8719A8742A604</SHA1>
+      <FileSize>3145</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>alum-inner-eqs.txt~</FileName>
+      <SHA1>AFFAE2306EDC8D97D1E41D73DFB54A168C0C4CF6</SHA1>
+      <FileSize>3028</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>angle-bracket.SLDPRT</FileName>
+      <SHA1>E036E7D7D6AB3518B551A8A9DE0AEF27A8B6D4D1</SHA1>
+      <FileSize>85738</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>bar-rear-top-bottom.SLDPRT</FileName>
+      <SHA1>42D1BBF405D872041DB7305C6C6790B08AC6645D</SHA1>
+      <FileSize>115377</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>bar-rlr.SLDPRT</FileName>
+      <SHA1>153A87A92460B3BA2D43D55C0CB2B46A56C666EA</SHA1>
+      <FileSize>97798</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>bar-side-top.SLDPRT</FileName>
+      <SHA1>387AA4B56654A2CDBADCBC148FE2CB5B6CF5C50D</SHA1>
+      <FileSize>89522</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>base 90.sldprt</FileName>
+      <SHA1>53EF609D3756EB8B0D3629B8AC6D1B1744D53694</SHA1>
+      <FileSize>869888</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:19.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>base 90_2.sldprt</FileName>
+      <SHA1>AF94B81D067563CD802D778EBB41E0AD63B3CB73</SHA1>
+      <FileSize>44032</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:19.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>baseplate.SLDPRT</FileName>
+      <SHA1>F1663912F81F2117DBC1E2C5FC2E5A67F20EA9D5</SHA1>
+      <FileSize>144720</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BC02-16.sldprt</FileName>
+      <SHA1>06143962709CE0FE5E004D59833B1089DCBA5FC6</SHA1>
+      <FileSize>51200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>binderpost.SLDPRT</FileName>
+      <SHA1>323C44C0E90B10B3072D7ABFB347D333B4725900</SHA1>
+      <FileSize>87649</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Bitspower_G14-Plug.sldprt</FileName>
+      <SHA1>BF27BA3AAF79661B2B6182349FE278F61D35EBF9</SHA1>
+      <FileSize>55296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>body 90.sldprt</FileName>
+      <SHA1>0E3A8205580E48130783067C70783131607691C3</SHA1>
+      <FileSize>79360</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:18.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>bottle-general-hydroponics-quart.SLDPRT</FileName>
+      <SHA1>487C3EA7A641C3A221C8F292CBEA7605257DF1F6</SHA1>
+      <FileSize>84462</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Bottom Cap.sldprt</FileName>
+      <SHA1>500A564190566E2DF024C22CD10BCEB771FD2D1A</SHA1>
+      <FileSize>49664</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>bucket.SLDPRT</FileName>
+      <SHA1>4DEBC8E9AAE4230C48243266F36AB79D9CC3B406</SHA1>
+      <FileSize>147316</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>circ_fan_assembly.SLDASM</FileName>
+      <SHA1>A7EDF879B0EEF7342090C891B735C4D1E6FBA02B</SHA1>
+      <FileSize>602744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>circ_fan_mount.SLDPRT</FileName>
+      <SHA1>CB7A28DFCA49D2C5B0B96E50C9E72AF7F0B432EF</SHA1>
+      <FileSize>83722</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>co2-bottle.SLDPRT</FileName>
+      <SHA1>47F7929F4E1AF1454D05A19DADDBADAEC2AC88C9</SHA1>
+      <FileSize>320839</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CompressorInlet.sldprt</FileName>
+      <SHA1>A3F428CF48BB7569C55C5A819EDA231449121B44</SHA1>
+      <FileSize>91136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CompressorOutlet.sldprt</FileName>
+      <SHA1>8CC9A7A98FE35165BEBA0853DF6EAEFB8AE29C02</SHA1>
+      <FileSize>133632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CondenserOutlet.sldprt</FileName>
+      <SHA1>BA180CAC5B21A9674FD8FB74F6D680E87E4C7F26</SHA1>
+      <FileSize>61440</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:17.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Cooler.SLDPRT</FileName>
+      <SHA1>0DD519055D47CFC67F98B387CCFBB422B2FCD03A</SHA1>
+      <FileSize>236196</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Corner brace.SLDPRT</FileName>
+      <SHA1>9C4D0B301480ACA798A292DAC066732ED30E3777</SHA1>
+      <FileSize>78010</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-22T22:38:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>corner-2-esto-521075-BX.SLDPRT</FileName>
+      <SHA1>D4BCA09CF6ABA0A5E05CF37694B9D32EA00BBB23</SHA1>
+      <FileSize>72680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>corner-3-esto-533075-BX.SLDPRT</FileName>
+      <SHA1>3A56B18C00F889105E20BA624CED0EB3D94C4B08</SHA1>
+      <FileSize>80854</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>corner-4-esto-5457SP-BX.SLDPRT</FileName>
+      <SHA1>77828BC18194B8D09E09AB6B4561D7468F9EDCDD</SHA1>
+      <FileSize>88138</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>corner_bracket.SLDPRT</FileName>
+      <SHA1>153E8071739490868AEE6373130870386368286C</SHA1>
+      <FileSize>183492</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-20T19:19:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>demo_side.SLDPRT</FileName>
+      <SHA1>CB5A59BAF08851DC2CCDCFC2A2EF442E82D64C04</SHA1>
+      <FileSize>44409</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>door.SLDPRT</FileName>
+      <SHA1>E201C14233154DF065E8A318C315D6C66FB689F6</SHA1>
+      <FileSize>471643</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>door_demo.SLDPRT</FileName>
+      <SHA1>AF82EF619BD52B5EC7B978C11A600B9DE5AADCE4</SHA1>
+      <FileSize>46406</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-corners.SLDPRT</FileName>
+      <SHA1>417AC90AA7FE2F54D3A5D577332AABCD2929A408</SHA1>
+      <FileSize>85774</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-22T22:38:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-Hz-M bar.SLDPRT</FileName>
+      <SHA1>C9A9983C7B69DF02F6FB2C10AE6B9D2D71DE6C00</SHA1>
+      <FileSize>84182</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-panel-front.SLDPRT</FileName>
+      <SHA1>24249E60ABF1AC45A9CCA80E9813F4A5DE656013</SHA1>
+      <FileSize>45979</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-panel-rear.SLDPRT</FileName>
+      <SHA1>1D731BCF1EDCD3B23133F651A745719FC7A98D95</SHA1>
+      <FileSize>108076</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-panel-side.SLDPRT</FileName>
+      <SHA1>1A1A38DF7E25BEFC957C6B032AADDEE02AF884DF</SHA1>
+      <FileSize>51172</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-panel-top.SLDPRT</FileName>
+      <SHA1>7E6C5AE52C7C018AC87C0F1BE448714BD4646655</SHA1>
+      <FileSize>49177</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-shelf-depth-bar.SLDPRT</FileName>
+      <SHA1>AD3CADCB0E29B1ED7D67557F254459B083D3EC84</SHA1>
+      <FileSize>82112</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-shelf-width-short.SLDPRT</FileName>
+      <SHA1>639AEC3107AE2297DB028D17983B4020FD02CB9D</SHA1>
+      <FileSize>71228</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-shelf.SLDPRT</FileName>
+      <SHA1>63DC481CBEAADF10AE3BB34C37AC0A7A52FED89D</SHA1>
+      <FileSize>89291</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-short bar.SLDPRT</FileName>
+      <SHA1>9CF784FF824D2EA24FE63AB5A73FF6035F03FE35</SHA1>
+      <FileSize>86995</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-V bar.SLDPRT</FileName>
+      <SHA1>9F302D896B4BB0E88157CDF2EEDF4ECAC8101EF5</SHA1>
+      <FileSize>75978</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-22T22:38:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EB-V-shelf-bar.SLDPRT</FileName>
+      <SHA1>33D06A85704F7300C62AA283FBE58E94B599714F</SHA1>
+      <FileSize>68516</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:15.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EvapInlet.sldprt</FileName>
+      <SHA1>2BADBA6CC890B36AD3B7423E6B5E7625EC98038A</SHA1>
+      <FileSize>50176</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:17.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Fan-120mm Irwin.sldprt</FileName>
+      <SHA1>FB5CE9455E303DEE6DC3BEF904CF2DE215F1BC9C</SHA1>
+      <FileSize>202240</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Fan-120mm-Cougar Vortex PWM.SLDPRT</FileName>
+      <SHA1>BF86CB041D558E3E88A86D9FA702A9ABD551F6D2</SHA1>
+      <FileSize>14302663</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-22T22:38:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>fan-cover-120mm.SLDPRT</FileName>
+      <SHA1>EEF49946E9A3A33DB62F41F8416E362DC8215434</SHA1>
+      <FileSize>767147</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>fan_adapter.SLDPRT</FileName>
+      <SHA1>4940BE9A103BA901591E490B0377965C76AB0ACB</SHA1>
+      <FileSize>75670</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FilterDryer.sldprt</FileName>
+      <SHA1>ED12C7C67D3321DAF0D0790B67A984802AE99E6F</SHA1>
+      <FileSize>46080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FilterDryerInlet.sldprt</FileName>
+      <SHA1>C30E163993B6976FA6CC4F51BC4F73748F61C05D</SHA1>
+      <FileSize>54272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>foam_tray.SLDPRT</FileName>
+      <SHA1>547BD4DCF2F7E8DBBAA4F1FD14F5E6956A12D88B</SHA1>
+      <FileSize>86446</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-18T18:09:19.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Fujikoki Coil.sldprt</FileName>
+      <SHA1>E8911FB92C922CF6758CECD4B9F9E1963BB2F88D</SHA1>
+      <FileSize>104960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:17.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Fujikoki Valve Body.sldprt</FileName>
+      <SHA1>83BF2145B12E1E6D8951C254D5E5A932CA417D72</SHA1>
+      <FileSize>86016</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:17.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>gallon-jug.SLDPRT</FileName>
+      <SHA1>49D6054E93725B0E70EB407D2E08D77861A91590</SHA1>
+      <FileSize>3158200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ge_light.SLDPRT</FileName>
+      <SHA1>2A577D6A5569ED5D320D951E0D3B1D74C7E89D48</SHA1>
+      <FileSize>246106</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Grommet Isolator.sldprt</FileName>
+      <SHA1>AFE8174578280000A6C03E16F0A9025AFEF77873</SHA1>
+      <FileSize>84992</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:21.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>heater-200w.SLDPRT</FileName>
+      <SHA1>E09B0D8A4AE3387CDD9647644A82ED48B111BEF6</SHA1>
+      <FileSize>150873</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-22T22:38:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>inner-side-panel.SLDPRT</FileName>
+      <SHA1>A1488ED7D11DCC7CF1B1842A04C2DE69EDB1BFFE</SHA1>
+      <FileSize>289250</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T18:42:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>InsulationMiddle.sldprt</FileName>
+      <SHA1>F284D424C8FD2DFD2830D3F256F16EB1A9B4A896</SHA1>
+      <FileSize>49152</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>L-bracket_tall.SLDPRT</FileName>
+      <SHA1>BC217AA7DBE2B2F3BB6A13FCCABBD98C3DAF53BA</SHA1>
+      <FileSize>79927</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>left_cover_demo.SLDPRT</FileName>
+      <SHA1>8D1BA7D27EDA670C291B8C1B32503842073C8442</SHA1>
+      <FileSize>34744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>magnet.SLDPRT</FileName>
+      <SHA1>4F1377BAB7F3FDD9EDC85817EB36A016D97E4F61</SHA1>
+      <FileSize>113356</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>outer-side-panel.SLDPRT</FileName>
+      <SHA1>7AE4268F8E4645E511FA1D06B98245B34E3A0DFC</SHA1>
+      <FileSize>101554</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>outer-top-plate.SLDPRT</FileName>
+      <SHA1>D9B74B3FC2E93728839EBBAB590BCE2EB302032D</SHA1>
+      <FileSize>113430</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>parker co2 solenoid.SLDPRT</FileName>
+      <SHA1>86F23BC886461386838EB0314833E96B717827D2</SHA1>
+      <FileSize>347887</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-22T22:38:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PC Fan - small.SLDPRT</FileName>
+      <SHA1>FC5A24B830A3E500082698828A7907A719C6F031</SHA1>
+      <FileSize>473547</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-22T22:38:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>post-FL.SLDPRT</FileName>
+      <SHA1>4CF3F2B765DB2B570CCC7B5028DC238DE06A24EF</SHA1>
+      <FileSize>33759</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-22T22:38:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>power-board.SLDPRT</FileName>
+      <SHA1>DA0323BB87DA51FAB57D6322ABFD93EF304A7484</SHA1>
+      <FileSize>1621479</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>power-supply-assembly.SLDASM</FileName>
+      <SHA1>748DE9816BB99B4E02FA82AA5001EE876A5BC12B</SHA1>
+      <FileSize>160407</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-20T19:19:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>power-supply-bracket - old.SLDPRT</FileName>
+      <SHA1>C56F7980AFE1FC930FCF658AE7BA711406F9B53F</SHA1>
+      <FileSize>157217</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>power-supply-bracket-small.SLDPRT</FileName>
+      <SHA1>C6B6C7E1CAFD3420C300E9D99DE7B18308432F08</SHA1>
+      <FileSize>116435</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-20T19:19:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>power-supply-bracket.SLDPRT</FileName>
+      <SHA1>1A3EF79F3B4A1864033AA358DA88E3B650C10F52</SHA1>
+      <FileSize>302545</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-20T19:19:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pump.sldprt</FileName>
+      <SHA1>0D5DEC4C5C7C7589210FA927423FE1F6AFF8D584</SHA1>
+      <FileSize>70144</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>rearsheet.SLDPRT</FileName>
+      <SHA1>2BC761E4FC6D81DB0DC8A96F307012304396F8DA</SHA1>
+      <FileSize>117632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ring alphacool 90 13.10.sldprt</FileName>
+      <SHA1>0A577B5302E7B799F1155FEEA7850E664FBA5996</SHA1>
+      <FileSize>2710528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:18.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>rubber-stopper-number-6.SLDPRT</FileName>
+      <SHA1>0C06069471B82ACE0C7828517AF3E2A819564987</SHA1>
+      <FileSize>70501</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SamsungFoodChiller.SLDASM</FileName>
+      <SHA1>D668C22F0E20C2A5F23C7C511BE86D1C4A9494B4</SHA1>
+      <FileSize>4116270</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:22.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>splash_guard.SLDPRT</FileName>
+      <SHA1>977D192BAA9642D070CB3C701A6E6E278AD37D68</SHA1>
+      <FileSize>50092</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T16:52:37.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Tank Main.sldprt</FileName>
+      <SHA1>72F7BE7A7AB3B9C3E94459B3FC59C1FA498352F2</SHA1>
+      <FileSize>45568</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Top Cap Insert.sldprt</FileName>
+      <SHA1>3950BCB2FEF2EB6256D541C7E9E7C3AB5B12205B</SHA1>
+      <FileSize>45056</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>UX0T011ZNAE5.sldprt</FileName>
+      <SHA1>85291A3BE86AFB2AD1FD58CDAF2640CFE4AD2F11</SHA1>
+      <FileSize>345088</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:21.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>YIT Condenser.sldprt</FileName>
+      <SHA1>F14BDD1D42AA923AD02B83327EDE224DF4E132CA</SHA1>
+      <FileSize>699904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:21.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

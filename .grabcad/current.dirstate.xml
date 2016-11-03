@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2016-11-03T10:18:29.1891988-04:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\1-bar-frame.SLDASM</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>376392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-19T20:16:59.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\12-6-6-Box.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>47616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:21.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\2-56_screw.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>545208</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\2-56_standoff.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>591588</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\24v-power-supply.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>294822</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\24v-ps-RSP-320-24.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>293227</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\5-40_screw.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>622616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\8-075_standoff-f-f.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>898447</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\8-32_025_standoff.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>482629</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:11.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\8-32_025_standoff_f-f.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>64644</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\8-32_025_standoff_ss.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>624640</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:11.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\8-32_313_screw.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>559683</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:27.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\92185A134_TYPE 316 SS SOCKET HEAD CAP SCREW.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>963584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\alum-inner-eqs.txt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>3145</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\alum-inner-eqs.txt~</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>3028</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\angle-bracket.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>85738</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-14T15:04:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\bar-rear-top-bottom.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>115377</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\bar-rlr.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>97798</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\bar-side-top.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>89522</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\base 90.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>869888</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:19.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\base 90_2.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>44032</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:19.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\baseplate.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>144720</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-26T16:51:01.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\BC02-16.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>51200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\binderpost.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>87649</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\Bitspower_G14-Plug.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>55296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\body 90.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>79360</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:18.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\bottle-general-hydroponics-quart.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>84462</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:31.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\Bottom Cap.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>49664</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:20.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\bucket.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>147316</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\circ_fan_assembly.SLDASM</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>602744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\circ_fan_mount.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>83722</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-10-11T17:58:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\co2-bottle.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>320839</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\CompressorInlet.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>91136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\CompressorOutlet.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>133632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:16.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\CondenserOutlet.sldprt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>61440</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-24T14:29:17.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\Cooler.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>236196</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:29.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\Corner brace.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>78010</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-08-22T22:38:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\corner-2-esto-521075-BX.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>72680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OpenAG-Personal-Food-Computer-V2\corner-3-esto-533075-BX.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>80854</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-09-07T13:52:32.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>LICENSE</FileName>
+      <SHA1>2EA9F02239DC6B5FDBFFF01FCDF85BCC8C13667C</SHA1>
+      <FileSize>35815</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-11-03T14:17:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>README.md</FileName>
+      <SHA1>7B2C3D49E8C4A6EB53E79928F4018C94476B465D</SHA1>
+      <FileSize>48</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2016-11-03T14:17:04.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

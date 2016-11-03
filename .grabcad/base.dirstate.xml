@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2016-11-03T14:17:33.0000000+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>LICENSE</FileName>
+      <SHA1>2EA9F02239DC6B5FDBFFF01FCDF85BCC8C13667C</SHA1>
+      <FileSize>35815</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>README.md</FileName>
+      <SHA1>7B2C3D49E8C4A6EB53E79928F4018C94476B465D</SHA1>
+      <FileSize>48</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

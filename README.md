@@ -1,2 +1,2 @@
 # openag_pfc2_model
-CAD &amp; BOM for PFC v.2
+Solidworks CAD Model of the PFC2, also contains drawings & DXF files for parts that need to be machined

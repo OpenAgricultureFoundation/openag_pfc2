@@ -1,2 +1,2 @@
-# openag_pfc2_model
-Solidworks CAD Model of the PFC2, also contains drawings & DXF files for parts that need to be machined
+# openag_pfc2
+Solidworks CAD Model, Drawings, DXF files, Bill of Materials, Assembly Instructions.

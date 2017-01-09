@@ -27,9 +27,8 @@
 ### Instructions
  1. Gather materials for this submodule. See BOM-Master's PFC2-MOD-0001 tab
  2. Peel off the protective covering on both sides of the Brain Manifold Panel & Raspberry Pi Mounting Panel
- 3. Use the Hex Driver Set to attach the 8-32 x 1" Aluminum Standoffs (S-#08-32-100-STD-H-AL-FF) to the Brain Manifold Panel with the 8-32 x 1/2" Button Head Screws (S-#08-32-050-BTN-S-SS) as shown in ![brain_panel_standoff] (photos/brain_panel_standoff.jpg)
+ 3. Use the Hex Driver Set to attach the 8-32 x 1" Aluminum Standoffs (S-#08-32-100-STD-H-AL-FF) to the Brain Manifold Panel with the 8-32 x 1/2" Button Head Screws (S-#08-32-050-BTN-S-SS) as shown in ![brain_panel_standoffs](photos/brain_panel_standoffs.JPG)
  
-
 ## Assemble the Power Module
 
 ## Assemble the Water Manifold

@@ -10,20 +10,31 @@
  - x1 Aluminum Frame Bar Package (STR-BAR-PCK-0001)
  
 ### Tools
- - Rubber Mallet (TOL-HND-0001)
+ - Rubber Mallet
  
 ### Instructions
- 1. Use the Rubber Mallet to ... (add photos where logical)
 
 ## Mount Frame to Base Plate
 
 ## Assemle the Light Panel
 
-## Assemble the Brain Panel
+## Assemble the Brain Module (PFC2-MOD-0001)
+ 
+### Tools
+ - Small Flathead Screwdriver
+ - Hex Driver Set, Standard
+  
+### Instructions
+ 1. Gather materials for this submodule. See BOM-Master's PFC2-MOD-0001 tab
+ 2. Peel off the protective covering on both sides of the Brain Manifold Panel & Raspberry Pi Mounting Panel
+ 3. Use the Hex Driver Set to attach the 8-32 x 1" Aluminum Standoffs (S-#08-32-100-STD-H-AL-FF) to the Brain Manifold Panel with the 8-32 x 1/2" Button Head Screws (S-#08-32-050-BTN-S-SS) as shown in ![brain_panel_standoff] (photos/brain_panel_standoff.jpg)
+ 
 
 ## Assemble the Power Module
 
 ## Assemble the Water Manifold
+
+## Assemble the Pump Module
 
 ## Assemble the Back Panel
 

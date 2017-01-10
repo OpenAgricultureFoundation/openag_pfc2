@@ -66,6 +66,7 @@
  43. Connect **Molex JR 2-Pos Recepticle with "K16" Label to 19" Black Lead with 8 Stud 14-16 AWG Spade Terminals, 27" Red Lead** (WIR-HAR-0021) black wire to GND Bus 1, Terminal 14 and red wire to K16-NO
  44. Bundle together K12, K13, K14, K15, and K16 and zip tie them together.
  45. Connect **Inline Barrel Plug with Leads, Connectorized** (WIR-CBL-CZD-0001) black wire to GND Bus 1, Terminal 9, red wire to 12V Bus 1, Terminal 9, and the barrel plug to the **Arduino Mega** Barrel Jack. The assembly should now look something like this: ![brain_panel_pre_routing_front] (photos/brain_panel_pre_routing_front.JPG) ![brain_panel_pre_routing_back] (photos/brain_panel_pre_routing_back.JPG)
+ 46. Bundle the ratsnest on the back side into an orderly wire route by starting at the edges of the bundle and then moving inward. For example, bundle the all the red wires near the 12V bus that are close to each other. Do this for all the power bus bars. Then, move to the connectors on the other side of the wires and make sure the red and black wires coming into the them are of even lengths. Slowly tie the wires into the "main veins" and adjust as needed to make the routing look clean. It may be helpful to use place holder zip-ties in the process to help organize the clutter. Make sure the wires end up routed as they are in the photo below: ![brain_panel_post_routing_front] (photos/brain_panel_post_routing_front.JPG) ![brain_panel_post_routing_back] (photos/brain_panel_post_routing_back.JPG)
  
 ## Assemble the Power Module
 

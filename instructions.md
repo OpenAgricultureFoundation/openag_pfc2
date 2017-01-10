@@ -64,7 +64,8 @@
  41. Connect **Molex JR 2-Pos Recepticle with "K14" Label to 19" Black Lead with 8 Stud 14-16 AWG Spade Terminals, 27" Red Lead** (WIR-HAR-0019) black wire to GND Bus 1, Terminal 12 and red wire to K14-NO
  42. Connect **Molex JR 2-Pos Recepticle with "K15" Label to 19" Black Lead with 8 Stud 14-16 AWG Spade Terminals, 27" Red Lead** (WIR-HAR-0020) black wire to GND Bus 1, Terminal 13 and red wire to K15-NO
  43. Connect **Molex JR 2-Pos Recepticle with "K16" Label to 19" Black Lead with 8 Stud 14-16 AWG Spade Terminals, 27" Red Lead** (WIR-HAR-0021) black wire to GND Bus 1, Terminal 14 and red wire to K16-NO
- 44. Bundle together K12, K13, K14, K15, and K16 and zip tie them together as shown below: ![brain_panel_pumps_front] (photos/brain_panel_pumps_front.JPG) ![brain_panel_pumps_back] (photos/brain_panel_pumps_back.JPG)
+ 44. Bundle together K12, K13, K14, K15, and K16 and zip tie them together.
+ 45. Connect **Inline Barrel Plug with Leads, Connectorized** (WIR-CBL-CZD-0001) black wire to GND Bus 1, Terminal 9, red wire to 12V Bus 1, Terminal 9, and the barrel plug to the **Arduino Mega** Barrel Jack. The assembly should now look something like this: ![brain_panel_pre_routing_front] (photos/brain_panel_pre_routing_front.JPG) ![brain_panel_pre_routing_back] (photos/brain_panel_pre_routing_back.JPG)
  
 ## Assemble the Power Module
 

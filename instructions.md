@@ -150,7 +150,13 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  4. Mount the **Multifunction Programmable Relay Timer** (ELC-REL-0002) to one of the ** Small Power Supply Brackets** (STR-PNL-0003) with x4 of the **4-40 x 0.25" Button Head Screws** (S-#04-40-025-BTN-S-SS), x4 of the **4-40 x 0.25" Aluminum Standoff, Male-to-Female, 0.1875" Length** (S-#04-40-025-STD-H-AL-MF), and x4 of the **4-40 Nuts** (S-#04-40-094-NUT-H-SS) as shown: ![power_module_relay_mount] (photos/power_module_relay_mount.JPG)
  5. Mount the **Small Power Supply Brackets** to the **Large Power Supply Bracket** with x4 of the **8-32 x 0.25" Button Head Screws** (S-#08-32-025-BTN-S-SS) and x4 of the **8-32 Nuts** (S-#08-32-094-NUT-H-SS) as shown: ![power_module_brackets] (photos/power_module_brackets.JPG)
  6. Mount the **24V Power Supply** (PWR-SUP-0001) to the **Assembled Power Supply Brackets** with x2 of the **M4 x 14mm Button Head Screws** (M-004-07-014-BTN-S-SS) and x2 of the **M4 x 5mm Button Head Screws** (M-004-07-005-BTN-S-SS) as shown: ![power_module_24v] (photos/power_module_24v.JPG)
-
+ 7. Connect the **Power Entry Module Load** to the **Power Switch Pos 1A** and **Multifunction Relay COM** with **0.250" Female Quick Connect Terminal 10-12 AWG with 17" Black Lead and 3" Black Wire to 0.250" Female Quick Connect Terminal 14-16 AWG** (WIR-HAR-0026) as shown: ![power_module_load] (photos/power_module_load.JPG)
+ 8. Connect **Power Switch Pos 2A**, **Power Switch Pos 3A**, and **Multifunction Relay NO** with **Double 0.250" Female Quick Connect Terminal 10-12 AWG with 17", 21", and 21" Black Leads with 2" Black Wire Connecting Terminals** (WIR-HAR-0027). Make sure the orientation has the two unconnected black wires of apporximately equal length. See below: ![power_module_switched_load_initial] (photos/power_module_switched_load_initial.JPG)
+ 9. Connect **0.250" Female Quick Connect Terminal 10-12 AWG with Two 18" White Leads** (WIR-HAR-0024) to **Power Entry Module Neutral (N)**
+ 10. Connect **Double 0.250" Female Quick Connect Terminal 10-12 AWG to Two 19" Green Leads Connected by 2" Green Wire** (WIR-HAR-0025) to **Power Entry Module Ground** and **Power Switch Pos 4B**
+ 11. Connect **Molex SR 4-Pos Plug with "RPI GPIO 11/13/15/17" Label with Varried Length Leads** (WIR-HAR-0034) red wire to **Power Switch Pos 6B** and yellow wire to **Power Switch Pos 5B**. The assembly should now look like: ![power_module_connected_power_entry_and_switch] (photos/power_module_connected_power_entry_and_switch.JPG)
+ 12. Bundle the wires connecting to the **Power Entry Module** and **Power Switch** and zip  tie them together at the bottom of the **Power Entry Module**
+ 13. Tape over the entire **Power Entry Module** and **Power Switch** with Electrical Tape as shown: ![power_module_taped_power_entry_and_switch] (photos/power_module_taped_power_entry_and_switch.JPG)
 
 ## Assemble the Water Manifold
 

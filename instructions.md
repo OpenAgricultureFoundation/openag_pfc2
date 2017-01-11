@@ -78,7 +78,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 ## Assemle the Light Panel
 
 ## Assemble the Brain Module
-![power_module_assembly_front] (photos/power_module_assembly_front.JPG)
+![brain_panel_post_routing_front] (photos/brain_panel_post_routing_front.JPG)
  
 ### Tools
  - Small Flathead Screwdriver
@@ -135,6 +135,8 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  46. Bundle the ratsnest on the back side into an orderly wire route by starting at the edges of the bundle and then moving inward. For example, bundle the all the red wires near the 12V bus that are close to each other. Do this for all the power bus bars. Then, move to the connectors on the other side of the wires and make sure the red and black wires coming into the them are of even lengths. Slowly tie the wires into the "main veins" and adjust as needed to make the routing look clean. It may be helpful to use place holder zip-ties in the process to help organize the clutter. Make sure the wires end up routed as they are in the photo below: ![brain_panel_post_routing_front] (photos/brain_panel_post_routing_front.JPG) ![brain_panel_post_routing_back] (photos/brain_panel_post_routing_back.JPG)
  
 ## Assemble the Power Module
+![power_module_assembly_front] (photos/power_module_assembly_front.JPG)
+
 ### Tools
  - Balldriver Set, Standard
  - Balldriver Set, Metric
@@ -166,7 +168,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  19. Connect the white 24 AWG (the skinny one) wire into CH1 on the multifunction relay
  20. Make sure there is tape around the end of the yellow 24 AWG wire and tape it next to the multifunction relay.
  21. Bundle the wires together at the edges (all wires connecting to the 12V supply are one edge, all wires connecting to the 24V supply are another edge, the recepticles are another edge). The assembly should now look like this: ![power_module_pre_routing] (photos/power_module_pre_routing.JPG)
- 22. Bundle together the main vein of wires and zip tie together as shown: ![power_module_main_vein_inside] (photos/power_module_main_vein_inside) ![power_module_main_vein_outside] (photos/power_module_main_vein_outside.JPG)
+ 22. Bundle together the main vein of wires and zip tie together as shown: ![power_module_main_vein_inside] (photos/power_module_main_vein_inside.JPG) ![power_module_main_vein_outside] (photos/power_module_main_vein_outside.JPG)
  23. Close up the routing zone by mounting the 12V power supply to the power supply brackets. Use x8 **M4 x 5mm Button Head Screws** (M-004-07-005-BTN-S-SS). The finished assembly should look like: ![power_module_assembly_front] (photos/power_module_assembly_front.JPG) ![power_module_assembly_bottom] (photos/power_module_assembly_bottom.JPG)
 
 ## Assemble the Water Manifold

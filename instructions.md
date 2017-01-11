@@ -11,11 +11,12 @@
  
  
 ### Instructions
-For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmate CAD document viewing software. Then download the CAD documents from **(link)** to be viewed in e-drawings-viewer. 
- ![Sorted Bars](photos/Frame Build Photos/2.jpg) ![connectors](photos/Frame Build Photos/3.jpg)
- 
- 1. Check that your kit has all the proper frame bars & connectors. See **BOM-Master's STR-BAR-PCK-0001** tab for a list of bars. See **BOM-Master's "Kit Stage 1 BOM"** to find the connectors- STR-CON-0001, STR-CON-0002, STR-CON-0003.
+Printing Out the Bill of Materials (BOM) is helpful as a reference. The descriptions it contains help distinguish between parts. 
+For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmate CAD document viewing software. Then, download the CAD documents from **(link)** to be viewed in e-drawings-viewer. 
+  
+ 1. Check that your kit has all the proper frame bars & connectors. In **BOM-Master**, See the **STR-BAR-PCK-0001** & **"Kit Stage 1 BOM"** tab for a list of bars, and connectors. (STR-CON-0001, STR-CON-0002, STR-CON-0003)
  2.  Set the baseplate to the side for now, and group the bars by length
+![Sorted Bars](photos/Frame Build Photos/2.jpg) ![connectors](photos/Frame Build Photos/3.jpg)
  
 #### Base Layer
   
@@ -31,40 +32,28 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
   * x3 of STR-CON-0002
   * x2 of STR-CON-0003
 
-2. In x1 **STR-BAR-0001** bar, Insert x2 of **STR-CON-0001**. In The other **STR-BAR-0001**, insert x1 **STR-CON-0001** and x1 **STR-CON-0002**. Wider hole spacing should be through the vertical surface, as shown. These bars run along the bottom side of the grow chamber.
+2. In x1 **STR-BAR-0001** bar, Insert x2 of **STR-CON-0001**. In The other **STR-BAR-0001**, insert x1 **STR-CON-0001** and x1 **STR-CON-0002**. Wider hole spacing should be through the vertical surface, as shown. These bars run along the bottom side of the grow chamber. ![STR-BAR-0001 with STR-CON components.](photos/Frame Build Photos/Bottom Layer1 .jpg)
 
-![STR-BAR-0001 with STR-CON components.](photos/Frame Build Photos/Bottom Layer1 .jpg)
+3. Lay down one **STR-BAR-0003** in back, and one **STR-BAR-0008** in front. The wider hole spacing on **STR-BAR-0003** should be on the vertical surface. Make sure the 4-way connnector STR-CON-0002 is in the far left corner. Some *light* force may be required here. Set This Assembly to the side. ![Grow Chamber portion of bottom layer.](photos/Frame Build Photos/Bottom Layer Half 1.jpg)
 
-3. Lay down one **STR-BAR-0003** in back, and one **STR-BAR-0008** in front. The wider hole spacing on **STR-BAR-0003** should be on the vertical surface. Make sure the 4-way connnector STR-CON-0002 is in the far left corner. Some *light* force may be required here. Set This Assembly to the side
-
-![Grow Chamber portion of bottom layer.](Frame Build Photos/Bottom Layer Half 1.jpg)
- 
 4. Gather x1 of: **STR-BAR-0004**, **STR-BAR-0005**, **STR-BAR-0006**, **STR-BAR-0007**.
 5. Connect x1 of **STR-CON-0001**  and x1 of **STR-CON-0002** into **STR-BAR-0005**, in orientation shown below. 
-6. Connect **STR-BAR-0004** onto the 3-way connector, wider hole spacing vertical on the vertical surface, **STR-BAR-0007** perpendicular on the 4-way connector, and **STR-BAR-0006** parallel, with holes oriented as shown. 
-
-![Electric Box Portion of Bottom Layer.](photos/Frame Build Photos/Bottom Layer 3.jpg)
+6. Connect **STR-BAR-0004** onto the 3-way connector, wider hole spacing vertical on the vertical surface, **STR-BAR-0007** perpendicular on the 4-way connector, and **STR-BAR-0006** parallel, with holes oriented as shown. ![Electric Box Portion of Bottom Layer.](photos/Frame Build Photos/Bottom Layer 3.jpg)
 
 7. Insert x1 **STR-CON-0003** into the end of **STR-BAR-0007** & **STR-BAR-0006**. 
 8. Double check all bar orientations, then attach the two assemblies together. 
 
 #### Top Layer
 
-1. In x1 **STR-BAR-0001** bar, Insert x2 of **STR-CON-0001**. In The other **STR-BAR-0001**, insert x2 **STR-CON-0002** and x1 **STR-CON-0002**. Wider hole spacing should be through the vertical surface, as shown. These bars run along the top side of the grow chamber.
+1. In x1 **STR-BAR-0001** bar, Insert x2 of **STR-CON-0001**. In The other **STR-BAR-0001**, insert x2 **STR-CON-0002** and x1 **STR-CON-0002**. Wider hole spacing should be through the vertical surface, as shown. These bars run along the top side of the grow chamber.![Top Side Bars of Growing Chamber](photos/Frame Build Photos/Top Layer 1.jpg)
 
-![Top Side Bars of Growing Chamber](photos/Frame Build Photos/Top Layer 1.jpg)
-
-2. Lay down one **STR-BAR-0003** in back, and one **STR-BAR-0008** in front. Again, the wider hole spacing on **STR-BAR-0003** should be Through the verical surface. Some *light* force may be necessary here.
-
-![Growing Chamber Half of Top Layer](photos/Frame Build Photos/Top Layer 13.jpg)
+2. Lay down one **STR-BAR-0003** in back, and one **STR-BAR-0008** in front. Again, the wider hole spacing on **STR-BAR-0003** should be Through the verical surface. Some *light* force may be necessary here.![Growing Chamber Half of Top Layer](photos/Frame Build Photos/Top Layer 13.jpg)
 
 3. Gather x2 of **STR-BAR-0004**, x1 of **STR-BAR-0005**, x1 of **STR-BAR-0006**, x1 of **STR-BAR-0007**, x2 of **STR-CON-0001**, x1 of **STR-CON-0002**, x1 of **STR-CON-0003**.
 4. Connect x1 **STR-CON-0001**  and x1 **STR-CON-0002** into **STR-BAR-0005**, in orientation shown. 
 5. Connect **STR-BAR-0004** onto the 3-way connector with holes oriented as shown, **STR-BAR-0007** perpendicular on the 4-way connector, and **STR-BAR-0006** parallel, with holes oriented as shown. ![Pic]
 6. Inert x1 **STR-CON-0003** in the end of **STR-BAR-0007** with the exposed end downward, x1 **STR-CON-0001** similarly into **STR-BAR-0006**. 
-7. Connect the final **STR-BAR-0004** horizontally on the 3 way connector. Centered thread through the outer vertical surface.
-
-![Electric Box Portion of Top Layer](photos/Frame Build Photos/Top Layer 8.jpg)
+7. Connect the final **STR-BAR-0004** horizontally on the 3 way connector. Centered thread through the outer vertical surface. ![Electric Box Portion of Top Layer](photos/Frame Build Photos/Top Layer 8.jpg)
 
 8. Put last connectors in *(is this step needed)*
 9. check orientations, attach halves.

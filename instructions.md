@@ -75,11 +75,22 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
   * **STR-BAR-0010** has L-brackets attached to it, with two larger holes on the bottom. 
   * **STR-BAR-0009** has 10 holes, including Threads for the door attachement
   * **STR-BAR-0002** has 16 holes, and stands in the Rear of the growing chamber. 
-2. Attach 
-  Wait! do not put the top down
+2. Attach all **STR-BAR-0010** to the Electronics Box side- the smaller bottom half. 
+3. Attach both **STR-BAR-0002** to the back two connectors of the growing chamber, wider hole spacing towar back. 
+4. attach both **STR-BAR-0009** to the front two connectors, threaded holes facing outward. 
 
+![Vertical Bars in their places.](openag_pfc2/photos/Frame Build Photos/Verticals/vert 16.jpg)
+
+*Wait! do not put the top half on. First, Assemble the Electronics Panel*
 
 ## Mount Frame to Base Plate
+
+### Tools
+- 1/4" flathead Screwdriver
+
+
+## Assemble the Inner Side Panel
+
 
 ## Assemle the Light Panel
 

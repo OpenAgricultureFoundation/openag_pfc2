@@ -77,9 +77,9 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 
 ## Assemle the Light Panel
 
-## Assemble the Brain Module (PFC2-MOD-0001)
+## Assemble the Brain Module
  
- ### Tools
+### Tools
  - Small Flathead Screwdriver
  - Medium Phillips Screwdriver
  - Standard Hex Driver Set
@@ -133,8 +133,24 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  45. Connect **Inline Barrel Plug with Leads, Connectorized** (WIR-CBL-CZD-0001) black wire to GND Bus 1, Terminal 9, red wire to 12V Bus 1, Terminal 9, and the barrel plug to the **Arduino Mega** Barrel Jack. The assembly should now look something like this: ![brain_panel_pre_routing_front] (photos/brain_panel_pre_routing_front.JPG) ![brain_panel_pre_routing_back] (photos/brain_panel_pre_routing_back.JPG)
  46. Bundle the ratsnest on the back side into an orderly wire route by starting at the edges of the bundle and then moving inward. For example, bundle the all the red wires near the 12V bus that are close to each other. Do this for all the power bus bars. Then, move to the connectors on the other side of the wires and make sure the red and black wires coming into the them are of even lengths. Slowly tie the wires into the "main veins" and adjust as needed to make the routing look clean. It may be helpful to use place holder zip-ties in the process to help organize the clutter. Make sure the wires end up routed as they are in the photo below: ![brain_panel_post_routing_front] (photos/brain_panel_post_routing_front.JPG) ![brain_panel_post_routing_back] (photos/brain_panel_post_routing_back.JPG)
  
- 
 ## Assemble the Power Module
+### Tools
+ - Balldriver Set, Standard
+ - Balldriver Set, Metric
+ - Nutdriver Set, Standard
+ - Nutdriver Set, Metric
+ - Wire Cutters
+ - Pliars
+ - Phillips Head Screwdriver
+ 
+### Instructions
+ 1. Gather all materials for this subassembly as shown: ![power_module_materials] (photos/power_module_materials.JPG)
+ 2. Insert x2 of the **Glass Fuses** (ELC-FUS-0001) into the **Power Entry Module** (ELC-PEM-0001) as shown: ![power_module_power_entry_fuse] (photos/power_module_power_entry_fuse.JPG)
+ 3. Insert the **Fused Power Entry Module** and **Power Switch** (ELC-SWI-0001) into the **Large Power Supply Bracket** (STR-PNL-0002) as shown. **IMPORTANT: Make sure to have the correct orientation as it is very difficult to take them back out after they are inserted** ![power_module_inserted_switch_power_entry] (photos/power_module_inserted_switch_power_entry.JPG)
+ 4. Mount the **Multifunction Programmable Relay Timer** (ELC-REL-0002) to one of the ** Small Power Supply Brackets** (STR-PNL-0003) with x4 of the **4-40 x 0.25" Button Head Screws** (S-#04-40-025-BTN-S-SS), x4 of the **4-40 x 0.25" Aluminum Standoff, Male-to-Female, 0.1875" Length** (S-#04-40-025-STD-H-AL-MF), and x4 of the **4-40 Nuts** (S-#04-40-094-NUT-H-SS) as shown: ![power_module_relay_mount] (photos/power_module_relay_mount.JPG)
+ 5. Mount the **Small Power Supply Brackets** to the **Large Power Supply Bracket** with x4 of the **8-32 x 0.25" Button Head Screws** (S-#08-32-025-BTN-S-SS) and x4 of the **8-32 Nuts** (S-#08-32-094-NUT-H-SS) as shown: ![power_module_brackets] (photos/power_module_brackets.JPG)
+ 6. Mount the **24V Power Supply** (PWR-SUP-0001) to the **Assembled Power Supply Brackets** with x2 of the **M4 x 14mm Button Head Screws** (M-004-07-014-BTN-S-SS) and x2 of the **M4 x 5mm Button Head Screws** (M-004-07-005-BTN-S-SS) as shown: ![power_module_24v] (photos/power_module_24v.JPG)
+
 
 ## Assemble the Water Manifold
 

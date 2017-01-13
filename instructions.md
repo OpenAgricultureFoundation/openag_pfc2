@@ -200,6 +200,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  
 ### Instructions
  1. Gather all materials for this subassembly as shown: ![power_module_materials] (photos/power_module_materials.JPG)
+ 2. **PLEASE READ, THIS IS VERY IMPORTANT: Set the 12V power supply to either 115V or 230V depending on where you live. If you do not do this properly, this will damage the suppy and make it unusable.**
  2. Insert x2 of the **Glass Fuses** (ELC-FUS-0001) into the **Power Entry Module** (ELC-PEM-0001) as shown: ![power_module_power_entry_fuse] (photos/power_module_power_entry_fuse.JPG)
  3. Insert the **Fused Power Entry Module** and **Power Switch** (ELC-SWI-0001) into the **Large Power Supply Bracket** (STR-PNL-0002) as shown. **IMPORTANT: Make sure to have the correct orientation as it is very difficult to take them back out after they are inserted** ![power_module_inserted_switch_power_entry] (photos/power_module_inserted_switch_power_entry.JPG)
  4. Mount the **Multifunction Programmable Relay Timer** (ELC-REL-0002) to one of the ** Small Power Supply Brackets** (STR-PNL-0003) with x4 of the **4-40 x 0.25" Button Head Screws** (S-#04-40-025-BTN-S-SS), x4 of the **4-40 x 0.25" Aluminum Standoff, Male-to-Female, 0.1875" Length** (S-#04-40-025-STD-H-AL-MF), and x4 of the **4-40 Nuts** (S-#04-40-094-NUT-H-SS) as shown: ![power_module_relay_mount] (photos/power_module_relay_mount.JPG)

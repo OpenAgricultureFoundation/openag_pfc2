@@ -80,7 +80,6 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 4. Note the orientation arrow on the acrylic plate. This indicates the direction the wires wil pass through to seal. 
 
 ### Pump Assembly
-
 1. Collect components listed in **Sub Assembly BOM's** **Peristaltic Pumps** tab.
 2. Locate orientation arrow. The pumps mount relative to this. 
 3. Slot the pump through the hole, with attention to the direction its wires point. 
@@ -105,6 +104,12 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 3. Push the sensor throught the port beneath the humidity/temp sensor port. 
 4. The small blue board can be neatly taped to the top of the sensor. 
 5. After full model assembly is complete, seal around its diameter with silicone sealant. 
+
+## Set Electrical Components into Proper Modes
+1. Set the **Multifunction Relay** into **Mode 10** and **Timer 1** to 20 seconds
+2. Tune the **Pulse Generator** to **140Hz**
+3. Set the **Atlas Circuits** into **I2C Mode**
+4. On the **Signal Board** off solder points below both BNC Jacks and tape over w/electrical or kapton tape
 
 ## Assemble the Brain Module
 ![brain_panel_post_routing_front] (photos/brain_panel_post_routing_front.JPG)
@@ -244,11 +249,6 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 8. Mount two **SEN-PRB-CZD-0003** water level sensors in the ports on the small **STR-PNL-0009** water level sensor mounts.
 9. Hang this assembly by the L-bracket from step 7, using the same **S-#08-00-125-LBR-O-SS** & **S-#08-32-050-BTN-S-SS** fasteners. 
 10. Route the **SEN-PRB-CZD-0003** temperature sensor through the the a larger hole in the water manifold, then Secure to a small cutout on the vertical using a ziptie. 
-
-## Set Electrical Components into Proper Modes
-1. Set the **Multifunction Relay** into **Mode 10** and **Timer 1** to 20 seconds
-2. Tune the **Pulse Generator** to **140Hz**
-3. Set the **Atlas Circuits** into **I2C Mode**
 
 ## Final Integration
 - Reference the CAD model for final integration and watch the build video when launched! 

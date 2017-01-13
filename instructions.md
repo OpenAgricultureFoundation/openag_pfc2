@@ -1,8 +1,7 @@
 # PFC2 Build Instructions
+![pfc2] (photos/pfc2.JPG)
 
 ## Assemble the Frame
-![this should be a picture of the completed assembly] (photos/Testing.jpg)
-
 ### Tools
  - tape measure
  - Rubber Mallet

@@ -74,6 +74,13 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 - 1/4" Nut Driver
 - 1/4" wrench 
 
+### Wire Seals
+1. Gather foam squares **STR-FOM-0001**, **STR-FOM-0002**, & acrylic square **STR-PNL-0010**  from the foam pack. 
+2. Remove the adhesive protection from the foam
+3. Match the patterns of the foam to their respective spots, and stick on.  **STR-FOM-0002** sticks to the inner side panel **STR-PNL-0017**
+ * pics
+4. Note the orientation arrow on the acrylic plate. This indicates the direction the wires wil pass through to seal. 
+
 ### Pump Assembly
 
 1. Collect components listed in **Sub Assembly BOM's** **Peristaltic Pumps** tab.
@@ -100,19 +107,6 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 3. Push the sensor throught the port beneath the humidity/temp sensor port. 
 4. The small blue board can be neatly taped to the top of the sensor. 
 5. After full model assembly is complete, seal around its diameter with silicone sealant. 
-
-### Wire Seals
-1. Gather foam squares **STR-FOM-0001**, **STR-FOM-0002**, & acrylic square **STR-PNL-0010**  from the foam pack. 
-2. Remove the adhesive protection from the foam
-3. Match the patterns of the foam to their respective spots, and stick on.  **STR-FOM-0002** sticks to the inner side panel **STR-PNL-0017**
- * pics
-4. Note the orientation arrow on the acrylic plate. This indicates the direction the wires wil pass through to seal. 
-
-### Mounting the Brain Manifold
-1. The Brain Manifold is mounted via x8 **S-#08-32-050-BTN-S-SS** (8-32 x 050 button head) screws. Not the mounting position. 
-* pics
-
-## Assemble the Light Panel
 
 ## Assemble the Brain Module
 ![brain_panel_post_routing_front] (photos/brain_panel_post_routing_front.JPG)
@@ -171,6 +165,24 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  45. Connect **Inline Barrel Plug with Leads, Connectorized** (WIR-CBL-CZD-0001) black wire to GND Bus 1, Terminal 9, red wire to 12V Bus 1, Terminal 9, and the barrel plug to the **Arduino Mega** Barrel Jack. The assembly should now look something like this: ![brain_panel_pre_routing_front] (photos/brain_panel_pre_routing_front.JPG) ![brain_panel_pre_routing_back] (photos/brain_panel_pre_routing_back.JPG)
  46. Bundle the ratsnest on the back side into an orderly wire route by starting at the edges of the bundle and then moving inward. For example, bundle the all the red wires near the 12V bus that are close to each other. Do this for all the power bus bars. Then, move to the connectors on the other side of the wires and make sure the red and black wires coming into the them are of even lengths. Slowly tie the wires into the "main veins" and adjust as needed to make the routing look clean. It may be helpful to use place holder zip-ties in the process to help organize the clutter. Make sure the wires end up routed as they are in the photo below: ![brain_panel_post_routing_front] (photos/brain_panel_post_routing_front.JPG) ![brain_panel_post_routing_back] (photos/brain_panel_post_routing_back.JPG)
  
+### Mounting the Brain Manifold
+1. The Brain Manifold is mounted via x8 **S-#08-32-050-BTN-S-SS** (8-32 x 050 button head) screws. Not the mounting position. 
+* pics
+
+## Mounting the Inner side panel
+1. place the inner side panel in the partially assembled frame, as shown. Loosely fasten in place with **S-018-32-075-PST-F-AL** binder posts along the side. 
+
+ 
+## Assemble the Temperature Control Module
+1. Collect components listed in **Sub Assembly BOM's** **Temperature control module** tab.
+2. Thread x2 **ACT-FTG-0001** Barb Fittings into the **ACT-XNG-0001 EX120** radiator.
+3. Mount the **CFM-A238-13-10** Fan to the fitting side of the radiator using x4 **S-#06-32-312-BTN-S-SS** 6-32 screws.
+4. Mount the Electric Heater to the otherside of the radiator using x2 **S-#06-32-312-BTN-S-SS** 6-32 screws.
+5. Fasten x4 **S-#08-32-150-STD-H-AL-FF** 8-32 x 1.5" standoffs to the fan using x4 **S-#08-32-375-BTN-S-SS** screws. 
+
+
+## Mount chamber side components to the inner side panel
+ 
 ## Assemble the Power Module
 ![power_module_assembly_front] (photos/power_module_assembly_front.JPG)
 
@@ -208,12 +220,35 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  22. Bundle together the main vein of wires and zip tie together as shown: ![power_module_main_vein_inside] (photos/power_module_main_vein_inside.JPG) ![power_module_main_vein_outside] (photos/power_module_main_vein_outside.JPG)
  23. Close up the routing zone by mounting the 12V power supply to the power supply brackets. Use x8 **M4 x 5mm Button Head Screws** (M-004-07-005-BTN-S-SS). The finished assembly should look like: ![power_module_assembly_front] (photos/power_module_assembly_front.JPG) ![power_module_assembly_bottom] (photos/power_module_assembly_bottom.JPG)
 
-## Assemble the Water Manifold
 
-## Assemble the Pump Module
+## Assemble the Light Panel
+* *Tightening light straps before each row of lights is finished may cause a strap to break.*
+1. See **Sub-Assembly BOM's** **"Light Manifold"** tab for a complete list of parts. 
+2. On Acrylic Light Panel **STR-PNL-0006**, locate the small etching at the corner of the piece. This is the top of the panel. 
+3. Populate the 5 small holes in the first row with 8-32x0.75" bolts. 
+4. With the etching at near left corner, begin the connectorized ends of the LED strands from their connectorized ends at the near right corner, see below pattern for placement. [LED mount start pic] [LED Pattern Pic]
+5. Fit the longer light strap **STR-PNL-0011** to the bolt pattern. Thread one **S-#08-32-094-NUT-H-SS** nut onto the 8-32x0.75 **S-#08-32-075-BTN-S-SS** screw between the red & white LED's. Only turn the nut 1-2 times- Tightening nuts before finishing this row may break a strap.  
+6. Begin populating the patterned holes to the left according to the above schematic. Loosly thread nuts onto the bolts aft each section. 
+7. For the White LEDs, Leave skip two as shown Here: [PIC LED 7] These will populate the middle row. 
+8. Populate the middle row via the same method, following the schematic.
+9. The in the final Row, start on the left with the Last LED of the red strand, Moving right as you populate the row. 
+ * [pic of finished product]
+ 
+## Assemble the Water Manifold
+* on each panel there are finernail sized rectangular cutouts. Use these & zipties to route wires. 
+1. See **Sub-Assembly BOM's** **"Water Manifold"** tab for a complete list of parts.
+2. Join the two plastic panels together with x3 **S-#08-32-050-BTN-S-SS**, **S-#08-32-094-NUT-H-SS**, & **S-#08-00-125-LBR-O-SS** stainless steel L-brackets. 
+3. Fasten two more **S-#08-00-125-LBR-O-SS**, **S-#08-32-050-BTN-S-SS** & **S-#08-32-094-NUT-H-SS** L-Brackets facing the opposite direction in the shown holes:[undershot of w.m]
+4. Thread one **S-050-NN-019-NUT-O-PL** plastic NPT locknut onto the pependicular outlet of **ACT-PMP-CZD-0001** Circulation pump, flat side outward. 
+5. Thread the **ACT-FLT-0001** filter onto the inlet of the pump, inline with the body. 
+6. Fit the Outlet of the pump through a hole in the vertical section so the filter inlet is away from the sensors. Thread the other **S-050-NN-019-NUT-O-PL** plastic NPT locknut onto the outlet. 
+7. Thread another **S-#08-32-094-NUT-H-SS** L-bracket in place similar to the shown picure, using th same fasteners. for the Water level sensors [PIC: Water manifold assembly]
+8. Mount two **SEN-PRB-CZD-0003** water level sensors in the ports on the small **STR-PNL-0009** water level sensor mounts.
+9. Hang this assembly by the L-bracket from step 7, using the same **S-#08-00-125-LBR-O-SS** & **S-#08-32-050-BTN-S-SS** fasteners. 
+10. Route the **SEN-PRB-CZD-0003** temperature sensor through the the a larger hole in the water manifold, then Secure to a small cutout on the vertical using a ziptie. 
 
 ## Assemble the Back Panel
 
 ## Assemble the Side Panel
 
-## Assemble the Chamber Fan & Heater Module
+

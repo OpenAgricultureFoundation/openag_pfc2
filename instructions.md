@@ -51,11 +51,11 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 3. Attach both **STR-BAR-0002** to the back two connectors of the growing chamber, wider hole spacing towar back. *Attention:* This bar is not symmetric. There is a top & bottom. How to tell:
 4. attach both **STR-BAR-0009** to the front two connectors, threaded holes facing outward. 
 
-![Vertical Bars in their places.](openag_pfc2/photos/Frame Build Photos/Verticals/vert 16.jpg)
+![Vertical Bars in their places.](photos/Frame Build Photos/Verticals/vert 16.jpg)
 
 #### Top Layer
 
-1. In one **STR-BAR-0001** bar, Insert x2 **STR-CON-0001** connectors. In The other **STR-BAR-0001**, insert x2 **STR-CON-0002**. Wider hole spacing should be through the vertical surface of each bar, as shown. These bars line the top side of the grow chamber.![Top Side Bars of Growing Chamber](photos/Frame Build Photos/Top Layer 1.jpg)
+1. In one **STR-BAR-0001** bar, Insert x2 **STR-CON-0001** connectors. In The other **STR-BAR-0001**, insert x2 **STR-CON-0002**. Wider hole spacing should be through the vertical surface of each bar, as shown. These bars line the top side of the grow chamber.![Top Side Bars of Growing Chamber](photos/Frame Build Photos/Top Layer 1 .jpg)
 2. Lay down one **STR-BAR-0003** in back, and one **STR-BAR-0008** in front. Again, the wider hole spacing on **STR-BAR-0003** should be on the vertical surface. Push the components together. Some *light* force may be necessary here.![Growing Chamber Half of Top Layer](photos/Frame Build Photos/Top Layer 13.jpg)
 3. Gather x2 of **STR-BAR-0004**, x1 of **STR-BAR-0005**, x1 of **STR-BAR-0006**, x1 of **STR-BAR-0007**, x2 of **STR-CON-0001**, x1 of **STR-CON-0002**, x1 of **STR-CON-0003**.
 4. Connect x1 **STR-CON-0001**  and x1 **STR-CON-0002** into **STR-BAR-0005**, in orientation shown. 
@@ -66,7 +66,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 9. check orientations, attach halves.
 *Wait! do not put the top half on. First, Assemble the Electronics Panel*
 
-## Assemble the Electronics Panel
+## Assemble The Electronics Panel Components
 
 #### Tools
 - 1/16" Hex Driver
@@ -77,8 +77,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 ### Wire Seals
 1. Gather foam squares **STR-FOM-0001**, **STR-FOM-0002**, & acrylic square **STR-PNL-0010**  from the foam pack. 
 2. Remove the adhesive protection from the foam
-3. Match the patterns of the foam to their respective spots, and stick on.  **STR-FOM-0002** sticks to the inner side panel **STR-PNL-0017**
- * pics
+3. Match the patterns of the foam to their respective spots, and stick on.  **STR-FOM-0002** sticks to the inner side panel **STR-PNL-0017**, **STR-FOM-0001** sticks to the **STR-PNL-0010** backing plate. ![inner side panel hole](photos/Inner side panel/wire seals/Inner side panel hole 1.jpg) ![foam](photos/Inner side panel/wire seals/wire sealing 5.jpg) ![backing plate](openag_pfc2/photos/Inner side panel/wire seals/wire sealing2.jpg)
 4. Note the orientation arrow on the acrylic plate. This indicates the direction the wires wil pass through to seal. 
 
 ### Pump Assembly

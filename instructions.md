@@ -7,9 +7,8 @@
  - tape measure
  - Rubber Mallet
  - Table
- - Flat head Screwdriver
- 
- 
+ - 1/4" Flat head Screwdriver
+  
 ### Instructions
 Printing Out the Bill of Materials (BOM) is helpful as a reference. The descriptions it contains help distinguish between parts. 
 For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmate CAD document viewing software. Then, download the CAD documents from **(link)** to be viewed in e-drawings-viewer. 
@@ -40,6 +39,20 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 7. Press the **STR-CON-0003** connectors into the ends of **STR-BAR-0007** & **STR-BAR-0006**. 
 8. Double check all bar orientations, then attach the two assemblies together. ![Final step of bottom layer assembly](photos/Frame Build Photos/Bottom Layer 6.jpg)
 
+### Mount Frame to Base Plate
+
+### Mounting Vertical Members
+1. There are three vertical members: **STR-BAR-0002**, **STR-BAR-0009** & **STR-BAR-0010**
+ * Refering to **BOM-Master's STR-BAR-PCK-0001**, 
+  * **STR-BAR-0010** has L-brackets attached to it, with two larger holes on the bottom. 
+  * **STR-BAR-0009** has 10 holes, including Threads for the door attachement
+  * **STR-BAR-0002** has 16 holes, and stands in the Rear of the growing chamber. 
+2. Attach all **STR-BAR-0010** to the Electronics Box side- the smaller bottom half. 
+3. Attach both **STR-BAR-0002** to the back two connectors of the growing chamber, wider hole spacing towar back. *Attention:* This bar is not symmetric. There is a top & bottom. How to tell:
+4. attach both **STR-BAR-0009** to the front two connectors, threaded holes facing outward. 
+
+![Vertical Bars in their places.](openag_pfc2/photos/Frame Build Photos/Verticals/vert 16.jpg)
+
 #### Top Layer
 
 1. In one **STR-BAR-0001** bar, Insert x2 **STR-CON-0001** connectors. In The other **STR-BAR-0001**, insert x2 **STR-CON-0002**. Wider hole spacing should be through the vertical surface of each bar, as shown. These bars line the top side of the grow chamber.![Top Side Bars of Growing Chamber](photos/Frame Build Photos/Top Layer 1.jpg)
@@ -51,31 +64,34 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 7. Connect the final **STR-BAR-0004** horizontally on the 3 way connector. Centered thread through the outer vertical surface. ![Electric Box Portion of Top Layer](photos/Frame Build Photos/Top Layer 8.jpg)
 8. Put last connectors in *(is this step needed)*
 9. check orientations, attach halves.
-
-### Mounting Vertical Members
-1. There are three vertical members: **STR-BAR-0002**, **STR-BAR-0009** & **STR-BAR-0010**
- * Refering to **BOM-Master's STR-BAR-PCK-0001**, 
-  * **STR-BAR-0010** has L-brackets attached to it, with two larger holes on the bottom. 
-  * **STR-BAR-0009** has 10 holes, including Threads for the door attachement
-  * **STR-BAR-0002** has 16 holes, and stands in the Rear of the growing chamber. 
-2. Attach all **STR-BAR-0010** to the Electronics Box side- the smaller bottom half. 
-3. Attach both **STR-BAR-0002** to the back two connectors of the growing chamber, wider hole spacing towar back. 
-4. attach both **STR-BAR-0009** to the front two connectors, threaded holes facing outward. 
-
-![Vertical Bars in their places.](openag_pfc2/photos/Frame Build Photos/Verticals/vert 16.jpg)
-
 *Wait! do not put the top half on. First, Assemble the Electronics Panel*
 
-## Mount Frame to Base Plate
+## Assemble the Electronics Panel
 
-### Tools
-- 1/4" flathead Screwdriver
+#### Tools
+- 1/16" Hex Driver
+- 3/32" Hex Driver
+- 1/4" Nut Driver
+- 1/4" wrench 
 
+### Pump Assembly
 
-## Assemble the Inner Side Panel
+1. Collect components listed in **Sub Assembly BOM's** **Peristaltic Pumps** tab.
+2. Locate orientation arrow. The pumps mount relative to this. 
+3. Slot the pump through the hole, with attention to the direction its wires point. 
+4. All pumps wires should face to the right relative to the arrow. The tubes should face outward. 
+  * if the wires face the wrong direction, the body can be easily uncliped & rotated 90^o
+5. Tighten each pump on using x2 **S-#04-40-375-BTN-S-SS (4-40 x 0375 button head)** and **S-#04-40-094-NUT-H-SS (#4-40 nut)**
+6. Mount x4 **S-#08-32-250-STD-H-AL-FF (8-32x2.5 female alum standoff)** in the remaining holes using **S-#08-32-375-BTN-S-SS (8-32x0375 button head)**
 
+### Camera
+1. Stick adhesive backed **STR-FOM-0003 (Foam for camera sealing)** to the the camera board as shown.
 
-## Assemle the Light Panel
+### Sensors
+
+###
+
+## Assemble the Light Panel
 
 ## Assemble the Brain Module
 ![brain_panel_post_routing_front] (photos/brain_panel_post_routing_front.JPG)

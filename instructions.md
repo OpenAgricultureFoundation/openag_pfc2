@@ -49,6 +49,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 2. Attach all **STR-BAR-0010** to the Electronics Box side- the smaller bottom half. 
 3. Attach both **STR-BAR-0002** to the back two connectors of the growing chamber, wider hole spacing towar back. *Attention:* This bar is not symmetric. There is a top & bottom. How to tell:
 4. attach both **STR-BAR-0009** to the front two connectors, threaded holes facing outward. 
+ * It is good practice to check Acrylic panel alignment before continuing. **STR-BAR-0002** is designed to be symetric, hoever small variations in machining caould cause misaligned holes. 
 
 ![Vertical Bars in their places.](photos/Frame Build Photos/Verticals/vert 16.jpg)
 
@@ -76,8 +77,8 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 ### Wire Seals
 1. Gather foam squares **STR-FOM-0001**, **STR-FOM-0002**, & acrylic square **STR-PNL-0010**  from the foam pack. 
 2. Remove the adhesive protection from the foam
-3. Match the patterns of the foam to their respective spots, and stick on.  **STR-FOM-0002** sticks to the inner side panel **STR-PNL-0017**, **STR-FOM-0001** sticks to the **STR-PNL-0010** backing plate. ![inner side panel hole](photos/Inner side panel/wire seals/Inner side panel hole 1.jpg) ![foam](photos/Inner side panel/wire seals/wire sealing 5.jpg) ![backing plate](openag_pfc2/photos/Inner side panel/wire seals/wire sealing2.jpg)
-4. Note the orientation arrow on the acrylic plate. This indicates the direction the wires wil pass through to seal. 
+3. Match the patterns of the foam to their respective spots, and stick on.  **STR-FOM-0002** sticks to the inner side panel **STR-PNL-0017**, **STR-FOM-0001** sticks to the **STR-PNL-0010** backing plate. ![inner side panel hole](photos/Inner side panel/wire seals/Inner side panel hole 1.jpg) ![foam](photos/Inner side panel/wire seals/wire sealing 5.jpg) ![backing plate](photos/Inner side panel/wire seals/wire sealing2.jpg)
+4. Note the orientation arrow on the acrylic plate. This indicates the direction the wires should pass through to seal. 
 
 ### Pump Assembly
 1. Collect components listed in **Sub Assembly BOM's** **Peristaltic Pumps** tab.
@@ -87,16 +88,16 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
   * if the wires face the wrong direction, the body can be easily uncliped & rotated 90^o
 5. Tighten each pump on using x2 **S-#04-40-375-BTN-S-SS (4-40 x 0375 button head)** and **S-#04-40-094-NUT-H-SS (#4-40 nut)**
 6. Mount x4 **S-#08-32-250-STD-H-AL-FF (8-32x2.5 female alum standoff)** in the remaining holes using **S-#08-32-375-BTN-S-SS (8-32x0375 button head)**
+ ![Peristaltic Pumps Finished Assembly](photos/Inner side panel/Pumps/Finished Assembly 1.jpg)
 
-### Camera
+### Side Camera
 1. Stick adhesive backed **STR-FOM-0003 (Foam for camera sealing)** to the the camera **SEN-PRB-0005** board as shown.
 2. Place the camera **SEN-PRB-0005** in its port on the inner side panel **STR-PNL-0017**, securing inplace with x4 **S-#02-56-375-BTN-S-SS** & **S-#02-56-063-NUT-H-SS**.  Note the orientationof the camera. 
-* [PICS]
+ ![camera with foam, at mounting point](photos/Inner side panel/Camera/camera mounting point.jpg)
 
 ### Humidity sensor
 1. Place the Mount for the Humidity/temp sensor **SEN-MNT-0001** over its port. Secure inplace using x2 **S-#04-40-050-BTN-S-SS** & **S-#04-40-094-NUT-H-SS**.
 2. Place the humidity sensor **SEN-PRB-CZD-0002** in at any time, tightening the screw on the side to secure the sensor. 
-* [pics] 
 
 ### CO2 Sensor
 1. Remove the CO2 sensor **SEN-PRB-CZD-0001** from its package, and put the small wire harness with black connectors to the side. This is not used. 
@@ -104,6 +105,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 3. Push the sensor throught the port beneath the humidity/temp sensor port. 
 4. The small blue board can be neatly taped to the top of the sensor. 
 5. After full model assembly is complete, seal around its diameter with silicone sealant. 
+ ![Picture of all sensors](photos/Inner side panel/Sensors/All sensors.jpg)
 
 ## Set Electrical Components into Proper Modes
 1. Set the **Multifunction Relay** into **Mode 10** and **Timer 1** to 20 seconds
@@ -169,12 +171,11 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  46. Bundle the ratsnest on the back side into an orderly wire route by starting at the edges of the bundle and then moving inward. For example, bundle the all the red wires near the 12V bus that are close to each other. Do this for all the power bus bars. Then, move to the connectors on the other side of the wires and make sure the red and black wires coming into the them are of even lengths. Slowly tie the wires into the "main veins" and adjust as needed to make the routing look clean. It may be helpful to use place holder zip-ties in the process to help organize the clutter. Make sure the wires end up routed as they are in the photo below: ![brain_panel_post_routing_front] (photos/brain_panel_post_routing_front.JPG) ![brain_panel_post_routing_back] (photos/brain_panel_post_routing_back.JPG)
  
 ### Mounting the Brain Manifold
-1. The Brain Manifold is mounted via x8 **S-#08-32-050-BTN-S-SS** (8-32 x 050 button head) screws. Not the mounting position. 
-* pics
+1. Before Mounting the Brain Manifold, Make sure to route the wire harness around the Standoffs as seen here: ![Wire Harness Routing](photos/Inner side panel/Brain Manifold -mounting/Brain Manifold Harness Direction.jpg)
+2. The Brain Manifold is mounted via x8 **S-#08-32-050-BTN-S-SS** (8-32 x 050 button head) screws. Note the mounting position. ![Brain Manifold Mounting](photos/Inner side panel/Brain Manifold -mounting/Brain Manifold Mounting 3.jpg)
 
 ## Mounting the Inner side panel
-1. place the inner side panel in the partially assembled frame, as shown. Loosely fasten in place with **S-018-32-075-PST-F-AL** binder posts along the side. 
-
+1. place the inner side panel in the partially assembled frame, as shown. Loosely fasten in place with a few **S-018-32-075-PST-F-AL** binder posts along each side side.
  
 ## Assemble the Temperature Control Module
 1. Collect components listed in **Sub Assembly BOM's** **Temperature control module** tab.

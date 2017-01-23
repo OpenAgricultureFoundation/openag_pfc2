@@ -51,7 +51,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 4. attach both **STR-BAR-0009** to the front two connectors, threaded holes facing outward. 
  * It is good practice to check Acrylic panel alignment before continuing. **STR-BAR-0002** is designed to be symetric, hoever small variations in machining caould cause misaligned holes. 
 
-![Vertical Bars in their places.](photos/Frame Build Photos/Verticals/vert 16.jpg)
+ ![Vertical Bars in their places.](photos/Frame Build Photos/Verticals/vert 16.jpg)
 
 #### Top Layer
 
@@ -61,10 +61,10 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 4. Connect x1 **STR-CON-0001**  and x1 **STR-CON-0002** into **STR-BAR-0005**, in orientation shown. 
 5. Connect **STR-BAR-0004** onto the 3-way connector with holes oriented as shown, **STR-BAR-0007** perpendicular on the 4-way connector, and **STR-BAR-0006** parallel, with holes oriented as shown. ![Pic]
 6. Inert x1 **STR-CON-0003** in the end of **STR-BAR-0007** with the exposed end downward, x1 **STR-CON-0001** similarly into **STR-BAR-0006**. 
-7. Connect the final **STR-BAR-0004** horizontally on the 3 way connector. Centered thread through the outer vertical surface. ![Electric Box Portion of Top Layer](photos/Frame Build Photos/Top Layer 8.jpg)
+7. Connect the final **STR-BAR-0004** horizontally on the 3 way connector. Centered thread through the outer vertical surface.![Electric Box Portion of Top Layer](photos/Frame Build Photos/Top Layer 8.jpg)
 8. Put last connectors in *(is this step needed)*
 9. check orientations, attach halves.
-*Wait! do not put the top half on. First, Assemble the Electronics Panel*
+* *Wait! do not put the top half on. First, Assemble the Electronics Panel*
 
 ## Assemble The Electronics Panel Components
 

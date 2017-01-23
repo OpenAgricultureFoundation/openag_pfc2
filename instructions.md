@@ -227,30 +227,32 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 
 
 ## Assemble the Light Panel
-* *Tightening light straps before each row of lights is finished may cause a strap to break.*
+* *WARNING! Tightening light straps before each row of lights is finished may cause a strap to break.*
+ ![Light Panel Components](photos/Light Panel/Light Manifold Components.jpg)
+ ![LED Light Pattern](
 1. See **Sub-Assembly BOM's** **"Light Manifold"** tab for a complete list of parts. 
 2. On Acrylic Light Panel **STR-PNL-0006**, locate the small etching at the corner of the piece. This is the top of the panel. 
-3. Populate the 5 small holes in the first row with 8-32x0.75" bolts. 
-4. With the etching at near left corner, begin the connectorized ends of the LED strands from their connectorized ends at the near right corner, see below pattern for placement. [LED mount start pic] [LED Pattern Pic]
-5. Fit the longer light strap **STR-PNL-0011** to the bolt pattern. Thread one **S-#08-32-094-NUT-H-SS** nut onto the 8-32x0.75 **S-#08-32-075-BTN-S-SS** screw between the red & white LED's. Only turn the nut 1-2 times- Tightening nuts before finishing this row may break a strap.  
+3. With the etching at near left corner, Populate the 5 small holes in the first row with 8-32x0.75" bolts. 
+4. Begin the pattern of the LED strands from their connectorized ends at the near right corner, see above pattern for placement. 
+5. Fit the longer light strap **STR-PNL-0011** to the bolt pattern. Thread one **S-#08-32-094-NUT-H-SS** nut onto the 8-32x0.75 **S-#08-32-075-BTN-S-SS** screw between the red & white LED's. Only turn the nut 1-2 times- Tightening nuts before finishing this row may break a strap.  ![LED Mounting start picture](photos/Light Panel/LED mount start.jpg)
 6. Begin populating the patterned holes to the left according to the above schematic. Loosly thread nuts onto the bolts aft each section. 
-7. For the White LEDs, Leave skip two as shown Here: [PIC LED 7] These will populate the middle row. 
+7. For the White LEDs, Leave skip two as shown Here: ![PIC LED 7](photos/Light Panel/LED 7.jpg) These will populate the middle row. 
 8. Populate the middle row via the same method, following the schematic.
-9. The in the final Row, start on the left with the Last LED of the red strand, Moving right as you populate the row. 
- * [pic of finished product]
+9. The in the final Row, start on the left with the Last LED of the red strand, Moving right as you populate the row. ![Finished Top Side](photos/Light Panel/8 in leads.JPG)
+10. Mount the camera to the light panel using the supplied x4 **S-#02-56-050-STD-H-AL-FF**, x8 **S-#02-56-025-BTN-S-SS**, and the **SEN-PRB-0005** camera. Orient the camera so the connecector is closest to the LED string connectors. ![Camera Mounting](photos/Light Panel/Camera 2.jpg) 
  
 ## Assemble the Water Manifold
-* on each panel there are finernail sized rectangular cutouts. Use these & zipties to route wires. 
+* *on each panel there are finernail sized rectangular cutouts. Use these & zipties to route wires.* 
 1. See **Sub-Assembly BOM's** **"Water Manifold"** tab for a complete list of parts.
 2. Join the two plastic panels together with x3 **S-#08-32-050-BTN-S-SS**, **S-#08-32-094-NUT-H-SS**, & **S-#08-00-125-LBR-O-SS** stainless steel L-brackets. 
-3. Fasten two more **S-#08-00-125-LBR-O-SS**, **S-#08-32-050-BTN-S-SS** & **S-#08-32-094-NUT-H-SS** L-Brackets facing the opposite direction in the shown holes:[undershot of w.m]
+3. Fasten two more **S-#08-00-125-LBR-O-SS**, **S-#08-32-050-BTN-S-SS** & **S-#08-32-094-NUT-H-SS** L-Brackets facing the opposite direction in the shown holes: ![L-Brackets on the Manifold](photos/Water Manifold/Water Manifold plates.jpg)
 4. Thread one **S-050-NN-019-NUT-O-PL** plastic NPT locknut onto the pependicular outlet of **ACT-PMP-CZD-0001** Circulation pump, flat side outward. 
 5. Thread the **ACT-FLT-0001** filter onto the inlet of the pump, inline with the body. 
 6. Fit the Outlet of the pump through a hole in the vertical section so the filter inlet is away from the sensors. Thread the other **S-050-NN-019-NUT-O-PL** plastic NPT locknut onto the outlet. 
 7. Thread another **S-#08-32-094-NUT-H-SS** L-bracket in place similar to the shown picure, using th same fasteners. for the Water level sensors [PIC: Water manifold assembly]
 8. Mount two **SEN-PRB-CZD-0003** water level sensors in the ports on the small **STR-PNL-0009** water level sensor mounts.
 9. Hang this assembly by the L-bracket from step 7, using the same **S-#08-00-125-LBR-O-SS** & **S-#08-32-050-BTN-S-SS** fasteners. 
-10. Route the **SEN-PRB-CZD-0003** temperature sensor through the the a larger hole in the water manifold, then Secure to a small cutout on the vertical using a ziptie. 
+10. Route the **SEN-PRB-CZD-0003** temperature sensor through the the a larger hole in the water manifold, then Secure to a small cutout on the vertical using a ziptie.![Water Manifold Components Connected](photos/Water Manifold/Water Manifold Assembled.jpg)
 
 ## Final Integration
 - Reference the CAD model for final integration and watch the build video when launched! 

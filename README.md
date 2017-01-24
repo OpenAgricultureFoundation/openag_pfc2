@@ -5,7 +5,8 @@ This repository contains many resources for constructing a Personal Food Compute
 
 ## Build Instructions
 
-For photos and step by step build instructions, check out [instructions.md](instructions.md).
+For many more photos and step by step build instructions, check out
+[instructions.md](instructions.md).
 
 ## List of Resources
 
@@ -15,14 +16,14 @@ Resources included in this repository:
    build the PFC2
     - Ordering BOM: Components you will need to order from suppliers
     - Kit BOM: Components included in the PFC2 kit **\[NOTE: The kits are not available yet\]**
-    - WIR-HAR-PCK-*: Wiring harness component pack details
+    - WIR-HAR-PCK-\*: Wiring harness component pack details
     - FAS-PCK-0001: Fastener component pack details
     - STR-FOM-PCK-0001: Sealing foam component pack details
-    - STR-PNL-PCK-*: Panel and sticker component pack details
+    - STR-PNL-PCK-\*: Panel and sticker component pack details
     - STR-BAR-PCK-0001: Bar component pack details
     - Raw Materials: Stock materials including aluminum bar, acrylic and HDPE panels,
       insulation, foam, etc. that can be used to make many of the components in the
-      STR-BAR-*, STR-PNL-*, STR-FOM-*, and STR-INS-* component packs
+      STR-BAR-\*, STR-PNL-\*, STR-FOM-\*, and STR-INS-\* component packs
  - [Sub-Assembly Bill of Materials](Sub%20Assembly%20BOM's.xlsx): Tabbed spreadsheet of
    details on the subassembly components
     - Temperature Control Assembly: Heating element, fan, and PC water cooling radiator

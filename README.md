@@ -1,8 +1,15 @@
 # openag_pfc2
+
+![pfc2](photos/pfc2.JPG)
+The Personal Food Computer v2 (beta)
+
+For more photos and step by step build instructions, check out
+[instructions.md](instructions.md).
+
 This repository contains many resources for constructing a Personal Food Computer v2 (beta)
 
 Here is a list of those resources and how they might be useful:
- - Instructions: How to get started building a PFC2
+ - [Instructions](instructions.md): How to get started building a PFC2
  - Bill of Materials / Ordering BOM: For all the components needed to build the PFC2
  - Bill of Materials / Kit BOM: For all components that are required for following along with the instructions
  - Bill of Materials / (Sub-BOM's): Detailed view of component "packs"

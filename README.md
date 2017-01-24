@@ -1,6 +1,6 @@
 # openag_pfc2
 
-![pfc2](photos/pfc2.JPG)
+![pfc2](photos/pfc2.small.JPG)
 The Personal Food Computer v2 (beta)
 
 For more photos and step by step build instructions, check out

@@ -3,13 +3,16 @@ This repository contains many resources for constructing a Personal Food Compute
 
 ![pfc2](photos/pfc2.small.JPG)
 
-For more photos and step by step build instructions, check out
-[instructions.md](instructions.md).
+## Build Instructions
+
+For photos and step by step build instructions, check out [instructions.md](instructions.md).
+
+## List of Resources
 
 Resources included in this repository:
  - [Instructions](instructions.md): How to build a PFC2
  - [Bill of Materials](BOM-MASTER.xlsx): Spreadsheet of components needed to build the PFC2
-    - Ordering BOM: Components you will need to order
+    - Ordering BOM: Components you will need to order from suppliers
     - Kit BOM: Components included in the PFC2 kit **\[NOTE: The kits are not available yet\]**
     - WIR-HAR-PCK-*: Wiring harness component pack details
     - FAS-PCK-0001: Fastener component pack details

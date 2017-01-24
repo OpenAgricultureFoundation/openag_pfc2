@@ -24,8 +24,8 @@ Resources included in this repository:
     - Raw Materials: Stock materials including aluminum bar, acrylic and HDPE panels,
       insulation, foam, etc. that can be used to make many of the components in the
       STR-BAR-\*, STR-PNL-\*, STR-FOM-\*, and STR-INS-\* component packs
- - [Sub-Assembly Bill of Materials](Sub%20Assembly%20BOM's.xlsx): Tabbed spreadsheet of
-   details on the subassembly components
+ - [Sub Assembly Bill of Materials](Sub%20Assembly%20BOM's.xlsx): Tabbed spreadsheet of
+   details on the sub assembly components
     - Temperature Control Assembly: Heating element, fan, and PC water cooling radiator
     - Chiller Assembly: Fan, mounting plate, and PC water cooling chiller
     - Peristaltic Pumps: Nutrient and pH solution pumps and pump mounting panel
@@ -33,7 +33,8 @@ Resources included in this repository:
     - Light Manifold: LEDs, camera, and mounting panel
     - Water Manifold: Sensors, panels, pump, filter, etc.
     - Brain Manifold: Signal board, Raspberry Pi Model 3, Arduino Mega, etc.
- - Solidworks CAD Model: Comprehensive view of where parts belong in the computer
+ - [Solidworks CAD Model](Openag%20PFC%20V2%201-3-17/GrabCAD): Comprehensive view of where
+   parts belong in the computer
  - [Drawings](Openag%20PFC%20V2%201-3-17/GrabCAD): Documentation for machining parts or
    sending to a contract machinist
  - [DXF Files](Openag%20PFC%20V2%201-3-17/GrabCAD): File format used for laser cutting parts

@@ -260,7 +260,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  * *The chiller arrives itself with a list of components: Chiller Submodule, compressor driver electronics, rubber grommets, and black  Heat Exchanger insulation. *
  **Baseplate mounting placement diagrams**
  1. Mount 5 rubber feet and two L brackets to the baseplate. The Two L-Brackets are placed on the top side of the 
- 2. The compressor mounted to its baseplate via x3 **S-#08-00-875-SPC-O-AL**, x3 **S-#08-32-150-BTN-S-SS**, and x3 **S-#08-32-094-NUT-H-SS**. Push the small end of the rubber grommet to the compressors tabs, slide in the metal spacers, and bolt the compressor in place using the #8-32 bolts. 
+ 2. The compressor mounted to its baseplate via x3 **S-#08-00-875-SPC-O-AL**, x3 **S-#08-32-150-BTN-S-SS**, and x3 **S-#08-32-094-NUT-H-SS**. Push the small end of the rubber grommet to the compressors tabs, slide in the metal spacers, and bolt the compressor in place using the #8-32 bolts. ![Foot Mounting Pattern](photos/Chiller Assembly/Grommets on plate.jpg)
  3.  On the copper Heat Exchanger, mount the black insulation. 
  4. Mount the Guard to the Fan- This side will face the aluminum heat exchanger once mounted.
  5. Mount the Fan to the L-Brackets. 
@@ -271,6 +271,16 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  Make sure to leave enough length to remove the chiller from the PFC while running, & place two hoseclamps over each hose before connecting to any barbs.
  10. Once cut to length, firmly press the hoses over their barbs and tighten the hoseclamps over the barbs.  
  11. Put the Chiller in its place. (Beta prototype models will have a tight fit)
+
+## Mounting the Frame Top Section
+1. Mount the Top section of the frame. Line up the Appropriate Frame connectors, gradually tapping each connector in a small amount with each hit. 
+
+## Mount the Power Supply Assembly
+1. Mount the Power Supply Assembly to the top of the electical box using three **S-025-20-438-BTN-S-SS** 1/4-20 screws. 
+2. Connect the power supply plugs to the appropriate places
+
+## Mounting the Body Panels
+1. Mount the Rest of the Body panels. When aligning for mounting, notice the small etched markings indicating the orientation of the panel. Each of these markings faces inward, have an arrow and word to show orientation, and most line up with the marking of an adjacent panel. 
 
 ## Final Integration
 - Reference the CAD model for final integration and watch the build video when launched! 

@@ -77,7 +77,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 ### Wire Seals
 1. Gather foam squares **STR-FOM-0001**, **STR-FOM-0002**, & acrylic square **STR-PNL-0010**  from the foam pack. 
 2. Remove the adhesive protection from the foam
-3. Match the patterns of the foam to their respective spots, and stick on.  **STR-FOM-0002** sticks to the inner side panel **STR-PNL-0017**, **STR-FOM-0001** sticks to the **STR-PNL-0010** backing plate. ![inner side panel hole](photos/Inner side panel/wire seals/Inner side panel hole 1.jpg) ![foam](photos/Inner side panel/wire seals/wire sealing 5.jpg) ![backing plate](photos/Inner side panel/wire seals/wire sealing2.jpg)
+3. Match the patterns of the foam to their respective spots, and stick on.  **STR-FOM-0002** sticks to the electronics panel **STR-PNL-0017**, **STR-FOM-0001** sticks to the **STR-PNL-0010** backing plate. ![inner side panel hole](photos/Inner side panel/wire seals/Inner side panel hole 1.jpg) ![foam](photos/Inner side panel/wire seals/wire sealing 5.jpg) ![backing plate](photos/Inner side panel/wire seals/wire sealing2.jpg)
 4. Note the orientation arrow on the acrylic plate. This indicates the direction the wires should pass through to seal. 
 
 ### Pump Assembly
@@ -174,8 +174,8 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 1. Before Mounting the Brain Manifold, Make sure to route the wire harness around the Standoffs as seen here: ![Wire Harness Routing](photos/Inner side panel/Brain Manifold -mounting/Brain Manifold Harness Direction.jpg)
 2. The Brain Manifold is mounted via x8 **S-#08-32-050-BTN-S-SS** (8-32 x 050 button head) screws. Note the mounting position. ![Brain Manifold Mounting](photos/Inner side panel/Brain Manifold -mounting/Brain Manifold Mounting 3.jpg)
 
-## Mounting the Inner side panel
-1. place the inner side panel in the partially assembled frame, as shown. Loosely fasten in place with a few **S-018-32-075-PST-F-AL** binder posts along each side side.
+## Mounting the Electronics panel
+1. place the electronics panel in the partially assembled frame, as shown. Loosely fasten in place with a few **S-018-32-075-PST-F-AL** binder posts along each side side.
  
 ## Assemble the Temperature Control Module
 1. Collect components listed in **Sub Assembly BOM's** **Temperature control module** tab.
@@ -185,8 +185,9 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 5. Fasten x4 **S-#08-32-150-STD-H-AL-FF** 8-32 x 1.5" standoffs to the fan using x4 **S-#08-32-375-BTN-S-SS** screws. 
 
 
-## Mount chamber side components to the inner side panel
- 
+## Mount chamber side components to the electronics panel
+ 1. Panel is mounted and the insulation is in place: 
+ 2. Mount the Temperature Control Module, air flush out, and aeration pump to their resp[ective zones in the electronics panel. 
 ## Assemble the Power Module
 ![power_module_assembly_front] (photos/power_module_assembly_front.JPG)
 
@@ -249,10 +250,27 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 4. Thread one **S-050-NN-019-NUT-O-PL** plastic NPT locknut onto the pependicular outlet of **ACT-PMP-CZD-0001** Circulation pump, flat side outward. 
 5. Thread the **ACT-FLT-0001** filter onto the inlet of the pump, inline with the body. 
 6. Fit the Outlet of the pump through a hole in the vertical section so the filter inlet is away from the sensors. Thread the other **S-050-NN-019-NUT-O-PL** plastic NPT locknut onto the outlet. 
-7. Thread another **S-#08-32-094-NUT-H-SS** L-bracket in place similar to the shown picure, using th same fasteners. for the Water level sensors [PIC: Water manifold assembly]
+7. Thread another **S-#08-32-094-NUT-H-SS** L-bracket in place similar to the shown picure, using th same fasteners. for the Water level sensors [PIC: Water manifold assembly]higher
 8. Mount two **SEN-PRB-CZD-0003** water level sensors in the ports on the small **STR-PNL-0009** water level sensor mounts.
 9. Hang this assembly by the L-bracket from step 7, using the same **S-#08-00-125-LBR-O-SS** & **S-#08-32-050-BTN-S-SS** fasteners. 
 10. Route the **SEN-PRB-CZD-0003** temperature sensor through the the a larger hole in the water manifold, then Secure to a small cutout on the vertical using a ziptie.![Water Manifold Components Connected](photos/Water Manifold/Water Manifold Assembled.jpg)
+11. The PH and EC Sensors simply drop in place through any appropriate circular cutout. Make Sure Not to leave the PH sensor out of liquid for extended periods of time. 
+
+## Chiller Assembly. 
+ * *The chiller arrives itself with a list of components: Chiller Submodule, compressor driver electronics, rubber grommets, and black  Heat Exchanger insulation. *
+ **Baseplate mounting placement diagrams**
+ 1. Mount 5 rubber feet and two L brackets to the baseplate. The Two L-Brackets are placed on the top side of the 
+ 2. The compressor mounted to its baseplate via x3 **S-#08-00-875-SPC-O-AL**, x3 **S-#08-32-150-BTN-S-SS**, and x3 **S-#08-32-094-NUT-H-SS**. Push the small end of the rubber grommet to the compressors tabs, slide in the metal spacers, and bolt the compressor in place using the #8-32 bolts. 
+ 3.  On the copper Heat Exchanger, mount the black insulation. 
+ 4. Mount the Guard to the Fan- This side will face the aluminum heat exchanger once mounted.
+ 5. Mount the Fan to the L-Brackets. 
+ 6. Thread two **ACT-FTG-0001** into the Side of the pump that has two ports.
+ 7. Thread two **ACT-FTG-0001** into the Copper colored Heat Exchanger
+ 8. Mount the Ion Pump/Resevoir to the Baseplate
+ 9. Measure and cut 3 piece of the thicker tubing to the fit the pattern in the following diagram: ![Chiller Tubing Diagram](photos/Chiller Assembly/Chiller Tubing Diagram.png) 
+ Make sure to leave enough length to remove the chiller from the PFC while running, & place two hoseclamps over each hose before connecting to any barbs.
+ 10. Once cut to length, firmly press the hoses over their barbs and tighten the hoseclamps over the barbs.  
+ 11. Put the Chiller in its place. (Beta prototype models will have a tight fit)
 
 ## Final Integration
 - Reference the CAD model for final integration and watch the build video when launched! 

@@ -39,6 +39,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 8. Double check all bar orientations, then attach the two assemblies together. ![Final step of bottom layer assembly](photos/Frame Build Photos/Bottom Layer 6.jpg)
 
 ### Mount Frame to Base Plate
+1. The Frame is mounted to the baseplate with **S-018-32-075-PST-F-AL** Binder post. The countersunk holes of the baseplate should face down. 
 
 ### Mounting Vertical Members
 1. There are three vertical members: **STR-BAR-0002**, **STR-BAR-0009** & **STR-BAR-0010**
@@ -180,7 +181,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 ## Assemble the Temperature Control Module
 1. Collect components listed in **Sub Assembly BOM's** **Temperature control module** tab.
 2. Thread x2 **ACT-FTG-0001** Barb Fittings into the **ACT-XNG-0001 EX120** radiator.
-3. Mount the **CFM-A238-13-10** Fan to the fitting side of the radiator using x4 **S-#06-32-312-BTN-S-SS** 6-32 screws.
+3. Mount the **CFM-A238-13-10** Fan to the fitting side of the radiator using x4 **S-#06-32-312-BTN-S-SS** 6-32 screws. Make sure to orient the fan with its wires facing the wire pass through corner. 
 4. Mount the Electric Heater to the otherside of the radiator using x2 **S-#06-32-312-BTN-S-SS** 6-32 screws.
 5. Fasten x4 **S-#08-32-150-STD-H-AL-FF** 8-32 x 1.5" standoffs to the fan using x4 **S-#08-32-375-BTN-S-SS** screws. 
 
@@ -188,7 +189,8 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 ## Mount chamber side components to the electronics panel
  1. Panel is mounted and the insulation is in place: 
  2. Mount the Temperature Control Module, air flush out, and aeration pump to their resp[ective zones in the electronics panel. 
-## Assemble the Power Module
+
+##Assemble the Power Module
 ![power_module_assembly_front] (photos/power_module_assembly_front.JPG)
 
 ### Tools
@@ -205,7 +207,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  2. **PLEASE READ, THIS IS VERY IMPORTANT: Set the 12V power supply to either 115V or 230V depending on where you live. If you do not do this properly, this will damage the suppy and make it unusable.**
  3. Insert x2 of the **Glass Fuses** (ELC-FUS-0001) into the **Power Entry Module** (ELC-PEM-0001) as shown: ![power_module_power_entry_fuse] (photos/power_module_power_entry_fuse.JPG)
  4. Insert the **Fused Power Entry Module** and **Power Switch** (ELC-SWI-0001) into the **Large Power Supply Bracket** (STR-PNL-0002) as shown. **IMPORTANT: Make sure to have the correct orientation as it is very difficult to take them back out after they are inserted** ![power_module_inserted_switch_power_entry] (photos/power_module_inserted_switch_power_entry.JPG)
- 5. Mount the **Multifunction Programmable Relay Timer** (ELC-REL-0002) to one of the ** Small Power Supply Brackets** (STR-PNL-0003) with x4 of the **4-40 x 0.25" Button Head Screws** (S-#04-40-025-BTN-S-SS), x4 of the **4-40 x 0.25" Aluminum Standoff, Male-to-Female, 0.1875" Length** (S-#04-40-025-STD-H-AL-MF), and x4 of the **4-40 Nuts** (S-#04-40-094-NUT-H-SS) as shown: ![power_module_relay_mount] (photos/power_module_relay_mount.JPG)
+ 5. Mount the **Multifunction Programmable Relay Timer** (ELC-REL-0002) to one of the **Small Power Supply Brackets** (STR-PNL-0003) with x4 of the **4-40 x 0.25" Button Head Screws** (S-#04-40-025-BTN-S-SS), x4 of the **4-40 x 0.25" Aluminum Standoff, Male-to-Female, 0.1875" Length** (S-#04-40-025-STD-H-AL-MF), and x4 of the **4-40 Nuts** (S-#04-40-094-NUT-H-SS) as shown: ![power_module_relay_mount] (photos/power_module_relay_mount.JPG)
  6. Mount the **Small Power Supply Brackets** to the **Large Power Supply Bracket** with x4 of the **8-32 x 0.25" Button Head Screws** (S-#08-32-025-BTN-S-SS) and x4 of the **8-32 Nuts** (S-#08-32-094-NUT-H-SS) as shown: ![power_module_brackets] (photos/power_module_brackets.JPG)
  7. Mount the **24V Power Supply** (PWR-SUP-0001) to the **Assembled Power Supply Brackets** with x2 of the **M4 x 14mm Button Head Screws** (M-004-07-014-BTN-S-SS) and x2 of the **M4 x 5mm Button Head Screws** (M-004-07-005-BTN-S-SS) as shown: ![power_module_24v] (photos/power_module_24v.JPG)
  8. Connect the **Power Entry Module Load** to the **Power Switch Pos 1A** and **Multifunction Relay COM** with **0.250" Female Quick Connect Terminal 10-12 AWG with 17" Black Lead and 3" Black Wire to 0.250" Female Quick Connect Terminal 14-16 AWG** (WIR-HAR-0026) as shown: ![power_module_load] (photos/power_module_load.JPG)
@@ -230,14 +232,14 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 ## Assemble the Light Panel
 * *WARNING! Tightening light straps before each row of lights is finished may cause a strap to break.*
  ![Light Panel Components](photos/Light Panel/Light Manifold Components.jpg)
- ![LED Light Pattern](
+
 1. See **Sub-Assembly BOM's** **"Light Manifold"** tab for a complete list of parts. 
 2. On Acrylic Light Panel **STR-PNL-0006**, locate the small etching at the corner of the piece. This is the top of the panel. 
 3. With the etching at near left corner, Populate the 5 small holes in the first row with 8-32x0.75" bolts. 
 4. Begin the pattern of the LED strands from their connectorized ends at the near right corner, see above pattern for placement. 
 5. Fit the longer light strap **STR-PNL-0011** to the bolt pattern. Thread one **S-#08-32-094-NUT-H-SS** nut onto the 8-32x0.75 **S-#08-32-075-BTN-S-SS** screw between the red & white LED's. Only turn the nut 1-2 times- Tightening nuts before finishing this row may break a strap.  ![LED Mounting start picture](photos/Light Panel/LED mount start.jpg)
 6. Begin populating the patterned holes to the left according to the above schematic. Loosly thread nuts onto the bolts aft each section. 
-7. For the White LEDs, Leave skip two as shown Here: ![PIC LED 7](photos/Light Panel/LED 7.jpg) These will populate the middle row. 
+7. For the White LEDs, skip two as shown Here: ![PIC LED 7](photos/Light Panel/LED 7.jpg) These will populate the middle row. 
 8. Populate the middle row via the same method, following the schematic.
 9. The in the final Row, start on the left with the Last LED of the red strand, Moving right as you populate the row. ![Finished Top Side](photos/Light Panel/8 in leads.JPG)
 10. Mount the camera to the light panel using the supplied x4 **S-#02-56-050-STD-H-AL-FF**, x8 **S-#02-56-025-BTN-S-SS**, and the **SEN-PRB-0005** camera. Orient the camera so the connecector is closest to the LED string connectors. ![Camera Mounting](photos/Light Panel/Camera 2.jpg) 
@@ -270,14 +272,14 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
  9. Measure and cut 3 piece of the thicker tubing to the fit the pattern in the following diagram: ![Chiller Tubing Diagram](photos/Chiller Assembly/Chiller Tubing Diagram.png) 
  Make sure to leave enough length to remove the chiller from the PFC while running, & place two hoseclamps over each hose before connecting to any barbs.
  10. Once cut to length, firmly press the hoses over their barbs and tighten the hoseclamps over the barbs.  
- 11. Put the Chiller in its place. (Beta prototype models will have a tight fit)
+ 11. Put the Chiller Assembly in its place. (Beta prototype models will have a tight fit) ![Chiller Picture
 
 ## Mounting the Frame Top Section
 1. Mount the Top section of the frame. Line up the Appropriate Frame connectors, gradually tapping each connector in a small amount with each hit. 
 
 ## Mount the Power Supply Assembly
 1. Mount the Power Supply Assembly to the top of the electical box using three **S-025-20-438-BTN-S-SS** 1/4-20 screws. 
-2. Connect the power supply plugs to the appropriate places
+2. Connect the power supply wires to the appropriate places on the brain manifold. 
 
 ## Mounting the Body Panels
 1. Mount the Rest of the Body panels. When aligning for mounting, notice the small etched markings indicating the orientation of the panel. Each of these markings faces inward, have an arrow and word to show orientation, and most line up with the marking of an adjacent panel. 

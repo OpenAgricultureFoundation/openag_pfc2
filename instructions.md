@@ -27,7 +27,7 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
   * x1 of STR-BAR-0007
   * x1 of STR-BAR-0008
   * x4 of STR-CON-0001
-  * x3 of STR-CON-0002
+  * x2 of STR-CON-0002
   * x2 of STR-CON-0003
 
 2. In x1 **STR-BAR-0001** bar, Insert x2 **STR-CON-0001** connectors. In The other **STR-BAR-0001**, insert x1 **STR-CON-0001** and x1 **STR-CON-0002**. Wider hole spacing should be on the vertical surface in the final assembly. These bars line the bottom side of the grow chamber. ![STR-BAR-0001 with STR-CON components.](photos/Frame Build Photos/Bottom Layer1 .jpg)

@@ -1,7 +1,7 @@
 # openag_pfc2
 This repository contains many resources for constructing a Personal Food Computer v2 (beta)
 
-![pfc2](photos/pfc2.small.JPG)
+![pfc2](Photos/pfc2.small.JPG)
 
 ## Build Instructions
 

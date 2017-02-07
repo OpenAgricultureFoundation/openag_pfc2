@@ -286,3 +286,6 @@ For 3D model Access, Go to http://www.edrawingsviewer.com/ for a free & legitmat
 
 ## Final Integration
 - Reference the CAD model for final integration and watch the build video when launched! 
+
+## Final Integration Notes
+ - When installing the air temperature and humidity sensor, wrap a piece of electrical tape around the base so it makes a snug fit with the mount.

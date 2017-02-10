@@ -3,7 +3,7 @@
 
 ## Submodule Build Instructions
 
-Follow the directions to assemble each submodule. Each submodule can be assembled in parallel.
+Follow the directions to assemble each submodule. Each submodule can be assembled in parallel, but some will take longer than others to complete.
 
 - [Frame](./Instructions/frame.md)
 - [Electronics Panel](./Instructions/electronics_panel.md)
@@ -20,20 +20,8 @@ Follow the directions to assemble each submodule. Each submodule can be assemble
 3. Set the **Atlas Circuits** into **I2C Mode**
 4. On the **Signal Board** off solder points below both BNC Jacks and tape over w/electrical or kapton tape
 
-
-### Mounting the Brain Manifold
-1. Before Mounting the Brain Manifold, Make sure to route the wire harness around the Standoffs as seen here: ![Wire Harness Routing](Instructions/Photos/Inner_Side_Panel/Brain_Manifold/brain_manifold_harness_direction.jpg)
-2. The Brain Manifold is mounted via x8 **S-#08-32-050-BTN-S-SS** (8-32 x 050 button head) screws. Note the mounting position. ![Brain Manifold Mounting](Instructions/Photos/Inner_Side_Panel/Brain_Manifold/brain_manifold_mounting_3.jpg)
-
 ## Mounting the Electronics panel
 1. place the electronics panel in the partially assembled frame, as shown.<!-- TODO: Not shown --> Loosely fasten in place with a few **S-018-32-075-PST-F-AL** binder posts along each side side.
-
-## Assemble the Temperature Control Module
-1. Collect components listed in **Sub Assembly BOM's** **Temperature control module** tab.
-2. Thread x2 **ACT-FTG-0001** Barb Fittings into the **ACT-XNG-0001 EX120** radiator.
-3. Mount the **CFM-A238-13-10** Fan to the fitting side of the radiator using x4 **S-#06-32-312-BTN-S-SS** 6-32 screws. Make sure to orient the fan with its wires facing the wire pass through corner.
-4. Mount the Electric Heater to the otherside of the radiator using x2 **S-#06-32-312-BTN-S-SS** 6-32 screws.
-5. Fasten x4 **S-#08-32-150-STD-H-AL-FF** 8-32 x 1.5" standoffs to the fan using x4 **S-#08-32-375-BTN-S-SS** screws.
 
 ## Mount chamber side components to the electronics panel
  1. Panel is mounted and the insulation is in place:

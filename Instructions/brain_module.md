@@ -60,3 +60,7 @@
  46. Bundle the ratsnest on the back side into an orderly wire route by starting at the edges of the bundle and then moving inward. For example, bundle the all the red wires near the 12V bus that are close to each other. Do this for all the power bus bars. Then, move to the connectors on the other side of the wires and make sure the red and black wires coming into the them are of even lengths. Slowly tie the wires into the "main veins" and adjust as needed to make the routing look clean. It may be helpful to use place holder zip-ties in the process to help organize the clutter. Make sure the wires end up routed as they are in the photo below:
 ![brain_panel_post_routing_front](Photos/brain_panel_post_routing_front.jpg)
 ![brain_panel_post_routing_back](Photos/brain_panel_post_routing_back.jpg)
+
+### Mounting the Brain Manifold
+1. Before Mounting the Brain Manifold, Make sure to route the wire harness around the Standoffs as seen here: ![Wire Harness Routing](Photos/Inner_Side_Panel/Brain_Manifold/brain_manifold_harness_direction.jpg)
+2. The Brain Manifold is mounted via x8 **S-#08-32-050-BTN-S-SS** (8-32 x 050 button head) screws. Note the mounting position. ![Brain Manifold Mounting](Photos/Inner_Side_Panel/Brain_Manifold/brain_manifold_mounting_3.jpg)

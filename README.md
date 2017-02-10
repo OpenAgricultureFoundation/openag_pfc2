@@ -1,7 +1,7 @@
 # openag_pfc2
 This repository contains many resources for constructing a Personal Food Computer v2 (beta)
 
-![pfc2](Photos/pfc2.small.JPG)
+![pfc2](Instructions/Photos/pfc2.small.JPG)
 
 ## Build Instructions
 
@@ -12,7 +12,7 @@ For many more photos and step by step build instructions, check out
 
 Resources included in this repository:
  - [Instructions](instructions.md): How to build a PFC2
- - [Master Bill of Materials](BOM-MASTER.xlsx): Tabbed spreadsheet of components needed to
+ - [Master Bill of Materials](Instructions/BOM/BOM-MASTER.xlsx): Tabbed spreadsheet of components needed to
    build the PFC2
     - Ordering BOM: Components you will need to order from suppliers
     - Kit BOM: Components included in the PFC2 kit **\[NOTE: The kits are not available yet\]**
@@ -24,7 +24,7 @@ Resources included in this repository:
     - Raw Materials: Stock materials including aluminum bar, acrylic and HDPE panels,
       insulation, foam, etc. that can be used to make many of the components in the
       STR-BAR-\*, STR-PNL-\*, STR-FOM-\*, and STR-INS-\* component packs
- - [Sub Assembly Bill of Materials](Sub%20Assembly%20BOM's.xlsx): Tabbed spreadsheet of
+ - [Sub Assembly Bill of Materials](Instructions/BOM/Sub%20Assembly%20BOM's.xlsx): Tabbed spreadsheet of
    details on the sub assembly components
     - Temperature Control Assembly: Heating element, fan, and PC water cooling radiator
     - Chiller Assembly: Fan, mounting plate, and PC water cooling chiller
@@ -33,13 +33,14 @@ Resources included in this repository:
     - Light Manifold: LEDs, camera, and mounting panel
     - Water Manifold: Sensors, panels, pump, filter, etc.
     - Brain Manifold: Signal board, Raspberry Pi Model 3, Arduino Mega, etc.
- - [Solidworks CAD Model](Openag%20PFC%20V2%201-3-17/GrabCAD): Comprehensive view of where
+ - [Solidworks CAD Model](CAD/GrabCAD/OpenAG-Personal-Food-Computer-V2): Comprehensive view of where
    parts belong in the computer
- - [Drawings](Openag%20PFC%20V2%201-3-17/GrabCAD): Documentation for machining parts or
+ - [Drawings](CAD/GrabCAD): Documentation for machining parts or
    sending to a contract machinist
- - [DXF Files](Openag%20PFC%20V2%201-3-17/GrabCAD): File format used for laser cutting parts
- - [Wire Harnesses](Wire%20Harnesses.xlsx): Bill of Materials and instructions for creating
+ - [DXF Files](CAD/GrabCAD): File format used for laser cutting parts
+ - [Wire Harnesses](Wire_Harnesses.xlsx): Bill of Materials and instructions for creating
    the wire harnesses
- - [Wiring Reference](Wiring%20Reference.xlsx): Reference when wiring up the device
+ - [Wiring Reference](Wiring_Reference.xlsx): Reference when wiring up the device
  - [Connectorization](Connectorization.xlsx): Bill of Materials and instructions for
    attaching connectors to the chiller, fans, pumps, LEDs, etc.
+s

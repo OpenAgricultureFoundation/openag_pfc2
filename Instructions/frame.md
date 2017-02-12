@@ -1,3 +1,5 @@
+<!-- TODO: Indicate significance of threading -->
+<!-- TODO: Identify chirarity and parts, the things that were confusing. -->
 ## Assemble the Frame
 ### Tools
  - tape measure
@@ -6,7 +8,7 @@
  - 1/4" Flat head Screwdriver
 
 ### Instructions
-Printing Out the [Bill of Materials (BOM)](BOM/BOM_Master.xlsx) is helpful as a reference. The descriptions it contains help distinguish between parts.
+Printing Out the [Bill of Materials (BOM)](../BOM/BOM_Master.xlsx) is helpful as a reference. The descriptions it contains help distinguish between parts.
 For 3D model Access, Go to [http://www.edrawingsviewer.com/](http://www.edrawingsviewer.com/) for a free & legitmate CAD document viewing software. Then, download the CAD documents from [here](../CAD/GrabCAD) to be viewed in e-drawings-viewer.
 
  1. Check that your kit has all the proper frame bars & connectors. In **BOM_Master**, See the **STR-BAR-PCK-0001** & **"Kit Stage 1 BOM"** tab for a list of bars, and connectors. (STR-CON-0001, STR-CON-0002, STR-CON-0003)
@@ -36,11 +38,11 @@ For 3D model Access, Go to [http://www.edrawingsviewer.com/](http://www.edrawing
 8. Double check all bar orientations, then attach the two assemblies together. ![Final step of bottom layer assembly](Photos/Frame_Build_Photos/bottom_layer_6.jpg)
 
 ### Mount Frame to Base Plate
-1. The Frame is mounted to the baseplate with **S-018-32-075-PST-F-AL** Binder post. The countersunk holes of the baseplate should face down.
+1. The Frame is mounted to the baseplate with **S-018-32-075-PST-F-AL (Bag 31)** Binder post. The countersunk holes of the baseplate should face down.
 
 ### Mounting Vertical Members
 1. There are three vertical members: **STR-BAR-0002**, **STR-BAR-0009** & **STR-BAR-0010**
- * Refering to **BOM-Master's STR-BAR-PCK-0001**,
+  * Refering to **BOM-Master's STR-BAR-PCK-0001**,
   * **STR-BAR-0010** has L-brackets attached to it, with two larger holes on the bottom.
   	* One of the **STR-BAR-0010** does not have L-Brackets, but has threads.
   	* One of the **STR-BAR-0010** with L-brackets has threads, but the other 2 do not.

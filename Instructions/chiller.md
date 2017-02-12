@@ -3,7 +3,7 @@
  ![](Photos/Chiller_Assembly/chiller_4.jpg)
  **Baseplate mounting placement diagrams**
  1. Mount 5 rubber feet and two L brackets to the baseplate. The Two L-Brackets are placed on the top side of the
- 2. The compressor mounted to its baseplate via x3 **S-#08-00-875-SPC-O-AL**, x3 **S-#08-32-150-BTN-S-SS**, and x3 **S-#08-32-094-NUT-H-SS**. Push the small end of the rubber grommet to the compressors tabs, slide in the metal spacers, and bolt the compressor in place using the #8-32 bolts. ![Foot Mounting Pattern](Photos/Chiller_Assembly/grommets_on_plate.jpg)
+ 2. The compressor mounted to its baseplate via x3 **S-#08-00-875-SPC-O-AL (Bag 38)**, x3 **S-#08-32-150-BTN-S-SS (Bag 8)**, and x3 **S-#08-32-094-NUT-H-SS　(Bag 6)**. Push the small end of the rubber grommet to the compressors tabs, slide in the metal spacers, and bolt the compressor in place using the **S-#08-32-150-BTN-S-SS (Bag 8)** 8-32 Bolts. ![Foot Mounting Pattern](Photos/Chiller_Assembly/grommets_on_plate.jpg)
  3.  On the copper Heat Exchanger, mount the black insulation.
  4. Mount the Guard to the Fan- This side will face the aluminum heat exchanger once mounted.
  5. Mount the Fan to the L-Brackets.

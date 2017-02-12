@@ -22,17 +22,17 @@
 3. Slot the pump through the hole, with attention to the direction its wires point.
 4. All pumps wires should face to the right relative to the arrow. The tubes should face outward.
   * if the wires face the wrong direction, the body can be easily uncliped & rotated 90^o
-5. Tighten each pump on using x2 **S-#04-40-375-BTN-S-SS (4-40 x 0375 button head)** and **S-#04-40-094-NUT-H-SS (#4-40 nut)**
-6. Mount x4 **S-#08-32-250-STD-H-AL-FF (8-32x2.5 female alum standoff)** in the remaining holes using **S-#08-32-375-BTN-S-SS (8-32x0375 button head)**
+5. Tighten each pump on using x2 **S-#04-40-375-BTN-S-SS (Bag 14)** (4-40 x 0375 button head) and **S-#04-40-094-NUT-H-SS (Bag 15)** (#4-40 nut)
+6. Mount x4 **S-#08-32-250-STD-H-AL-FF (Bag 9)**(8-32x2.5 female alum standoff) in the remaining holes using **S-#08-32-375-BTN-S-SS (Bag 2)**(8-32x0375 button head)
 ![Peristaltic Pumps Finished Assembly](Photos/Inner_Side_Panel/Pumps/finished_assembly_1.jpg)
 
 ### Side Camera
 1. Stick adhesive backed **STR-FOM-0003 (Foam for camera sealing)** to the the camera **SEN-PRB-0005** board as shown.
-2. Place the camera **SEN-PRB-0005** in its port on the inner side panel **STR-PNL-0017**, securing inplace with x4 **S-#02-56-375-BTN-S-SS** & **S-#02-56-063-NUT-H-SS**.  Note the orientationof the camera.
+2. Place the camera **SEN-PRB-0005** in its port on the inner side panel **STR-PNL-0017**, securing inplace with x4 **S-#02-56-375-BTN-S-SS (Bag 22)** & **S-#02-56-063-NUT-H-SS (Bag 23)**.  Note the orientationof the camera.
 ![Camera with foam, at mounting point](Photos/Inner_Side_Panel/Camera/camera_mounting_point.jpg)
 
 ### Humidity sensor
-1. Place the Mount for the Humidity/temp sensor **SEN-MNT-0001** over its port. Secure inplace using x2 **S-#04-40-050-BTN-S-SS** & **S-#04-40-094-NUT-H-SS**.
+1. Place the Mount for the Humidity/temp sensor **SEN-MNT-0001** over its port. Secure inplace using x2 **S-#04-40-050-BTN-S-SS (Bag 11)** & **S-#04-40-094-NUT-H-SS (Bag 15)**.
 2. Place the humidity sensor **SEN-PRB-CZD-0002** in at any time, tightening the screw on the side to secure the sensor.
 
 ### CO2 Sensor

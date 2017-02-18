@@ -43,4 +43,5 @@ Resources included in this repository:
  - [Wiring Reference](Wiring_Reference.xlsx): Reference when wiring up the device
  - [Connectorization](Connectorization.xlsx): Bill of Materials and instructions for
    attaching connectors to the chiller, fans, pumps, LEDs, etc.
-s
+ - [Build Video](https://www.dropbox.com/s/8mhzuk2evo2f55q/oa_food_computer_howto_final.mp4?dl=0)
+	![CC BY-NC](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cc-by-nc_icon.svg/120px-Cc-by-nc_icon.svg.png)

@@ -12,6 +12,7 @@ For many more photos and step by step build instructions, check out
 
 Resources included in this repository:
  - [Instructions](instructions.md): How to build a PFC2
+ - [Build Video](https://youtu.be/Uf1FqjcPWsI): Video Walkthrough on the build. Good visual cues.
  - [Master Bill of Materials](BOM/BOM_MASTER.xlsx): Tabbed spreadsheet of components needed to
    build the PFC2
     - Ordering BOM: Components you will need to order from suppliers
@@ -43,4 +44,3 @@ Resources included in this repository:
  - [Wiring Reference](Wiring_Reference.xlsx): Reference when wiring up the device
  - [Connectorization](Connectorization.xlsx): Bill of Materials and instructions for
    attaching connectors to the chiller, fans, pumps, LEDs, etc.
-s

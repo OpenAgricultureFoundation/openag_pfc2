@@ -7,10 +7,6 @@
  - Table
  - 1/4" Flat head Screwdriver
 
-### Instructions
-Printing Out the [Bill of Materials (BOM)](../BOM/BOM_Master.xlsx) is helpful as a reference. The descriptions it contains help distinguish between parts.
-For 3D model Access, Go to [http://www.edrawingsviewer.com/](http://www.edrawingsviewer.com/) for a free & legitmate CAD document viewing software. Then, download the CAD documents from [here](../CAD/GrabCAD) to be viewed in e-drawings-viewer.
-
  1. Check that your kit has all the proper frame bars & connectors. In **BOM_Master**, See the **STR-BAR-PCK-0001** & **"Kit Stage 1 BOM"** tab for a list of bars, and connectors. (STR-CON-0001, STR-CON-0002, STR-CON-0003)
  2.  Set the baseplate to the side for now, and group the bars by length
 ![Sorted Bars](Photos/Frame_Build_Photos/parts_1.jpg) ![connectors](Photos/Frame_Build_Photos/parts_2.jpg)

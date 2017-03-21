@@ -44,3 +44,6 @@ Resources included in this repository:
  - [Wiring Reference](Wiring_Reference.xlsx): Reference when wiring up the device
  - [Connectorization](Connectorization.xlsx): Bill of Materials and instructions for
    attaching connectors to the chiller, fans, pumps, LEDs, etc.
+
+### Tools
+For 3D model Access, Go to [http://www.edrawingsviewer.com/](http://www.edrawingsviewer.com/) for a free & legitmate CAD document viewing software.

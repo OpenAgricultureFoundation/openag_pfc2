@@ -2,6 +2,11 @@
 
 ![pfc2](Instructions/Photos/pfc2.jpg)
 
+
+## Before you begin:
+Printing Out the [Bill of Materials (BOM)](../BOM/BOM_Master.xlsx) is helpful as a reference. The descriptions it contains help distinguish between parts.
+Download the CAD documents from [here](CAD/GrabCAD) to be viewed in e-drawings-viewer.
+
 ## Submodule Build Instructions
 Follow the directions to assemble each submodule. Each submodule can be assembled in parallel, but some will take longer than others to complete.
 

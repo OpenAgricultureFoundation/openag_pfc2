@@ -4,7 +4,7 @@
 
 
 ## Before you begin:
-Printing Out the [Bill of Materials (BOM)](../BOM/BOM_Master.xlsx) is helpful as a reference. The descriptions it contains help distinguish between parts.
+Printing Out the [Bill of Materials (BOM)](./BOM/BOM_MASTER.xlsx) is helpful as a reference. The descriptions it contains help distinguish between parts.
 Download the CAD documents from [here](CAD/GrabCAD) to be viewed in e-drawings-viewer.
 
 ## Submodule Build Instructions

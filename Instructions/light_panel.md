@@ -6,6 +6,8 @@
 2. On Acrylic Light Panel **STR-PNL-0006**, locate the small etching at the corner of the piece. This is the top of the panel.
 3. With the etching at near left corner, Populate the 5 small holes in the first row with 8-32x0.75" bolts.
 4. Begin the pattern of the LED strands from their connectorized ends at the near right corner, see above pattern for placement.
+5. See this picture for an overview of the LED panel orientation and refer to here as you continue. The numbers for the other colors can be found under `Instructions/Photos/Light_Panel/[blue|red]_led_routing_8in.png`:
+![](Photos/Light_Panel/white_led_routing_8in.png)
 5. Fit the longer light strap **STR-PNL-0011** to the bolt pattern. Thread one **S-#08-32-094-NUT-H-SS (Bag 6)** nut onto the 8-32x0.75 **S-#08-32-075-BTN-S-SS (Bag 4)** screw between the red & white LED's. Only turn the nut 1-2 times- Tightening nuts before finishing this row may break a strap.  ![LED Mounting start picture](Photos/Light_Panel/led_mount_start.jpg)
 6. Begin populating the patterned holes to the left according to the above schematic. Loosly thread nuts onto the bolts aft each section.
 7. For the White LEDs, skip two as shown Here: ![PIC LED 7](Photos/Light_Panel/led_7.jpg) These will populate the middle row.

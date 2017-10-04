@@ -1,0 +1,23 @@
+When printing, use hairline pen type.  Select all, show object properties menu, select pen type hairline.
+
+print then properties page for black color:
+speed: 1.0
+power: 100%
+PPI: 1500
+Air: on
+
+For blue (if anything needs to be etched in the surface):
+speed: 50.
+power: 15%
+PPI: default (400)
+Air: on
+
+You may need to print it a second time if it doesn't cut all the way through.
+
+Anything you want etched, make blue then use lower power / higher speed.
+
+
+Files:
+- EB-panel-side is the left side cover for the electronics and side of fluid bay.
+- EB-panel-front is the front fluid bay cover.
+- door is the entrance to the growth chamber.
